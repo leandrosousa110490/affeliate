@@ -31,6 +31,12 @@ const REQUIRED_ENV = ["AMAZON_CREDENTIAL_ID", "AMAZON_CREDENTIAL_SECRET", "AMAZO
 const MARKETPLACE = process.env.AMAZON_MARKETPLACE || "www.amazon.com";
 const PARTNER_TAG = process.env.AMAZON_PARTNER_TAG || "alyssasousa-20";
 const CONTENT_SOURCE = (process.env.CONTENT_SOURCE || "auto").toLowerCase();
+const GOOGLE_SITE_VERIFICATION_CONTENTS = [
+  "gF2wVIN47UcqQwrNaCH7qkU_Tz-LEYJ4BuE58gvbFNM",
+  "UJjj3mzgUx2f_AzleqnQGAWLNT-UIz11c4PFqJrvF3c",
+];
+const GA_MEASUREMENT_ID = String(process.env.GA_MEASUREMENT_ID || "").trim();
+const GTM_CONTAINER_ID = String(process.env.GTM_CONTAINER_ID || "").trim();
 const QUALITY_GATES = {
   minRating: Number(process.env.MIN_RATING || 4.2),
   minSavingPercent: Number(process.env.MIN_SAVING_PERCENT || 10),
@@ -705,6 +711,10 @@ function buildAudienceLine(sectionName) {
 
 function renderLayout({ title, description, canonicalPath, content, extraHead = "", homePrefix = "." }) {
   const canonicalUrl = `${SITE_URL}${canonicalPath}`;
+  const verificationMeta = renderGoogleVerificationMetaTags();
+  const gtagSnippet = renderGtagSnippet();
+  const gtmHeadSnippet = renderGtmHeadSnippet();
+  const gtmBodySnippet = renderGtmBodySnippet();
   return `<!doctype html>
 <html lang="en">
   <head>
@@ -720,6 +730,9 @@ function renderLayout({ title, description, canonicalPath, content, extraHead = 
     <meta property="og:site_name" content="Weekly Amazon Deal Radar" />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="twitter:card" content="summary_large_image" />
+    ${verificationMeta}
+    ${gtagSnippet}
+    ${gtmHeadSnippet}
     <link rel="alternate" type="application/rss+xml" title="Weekly Amazon Deal Radar RSS" href="${homePrefix}/feed.xml" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -731,6 +744,7 @@ function renderLayout({ title, description, canonicalPath, content, extraHead = 
     ${extraHead}
   </head>
   <body>
+    ${gtmBodySnippet}
     <main class="site-shell">
       <header class="topbar">
         <a class="logo" href="${homePrefix}/index.html">Weekly Amazon Deal Radar</a>
@@ -801,6 +815,52 @@ function renderFeed(archiveEntries) {
 </rss>`;
 }
 
+function renderGoogleVerificationMetaTags() {
+  return GOOGLE_SITE_VERIFICATION_CONTENTS
+    .map(
+      (content) =>
+        `<meta name="google-site-verification" content="${escapeAttribute(content)}" />`,
+    )
+    .join("\n    ");
+}
+
+function renderGtagSnippet() {
+  if (!GA_MEASUREMENT_ID) {
+    return "";
+  }
+  const id = escapeAttribute(GA_MEASUREMENT_ID);
+  const idJs = escapeJsString(GA_MEASUREMENT_ID);
+  return `<script async src="https://www.googletagmanager.com/gtag/js?id=${id}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${idJs}');
+    </script>`;
+}
+
+function renderGtmHeadSnippet() {
+  if (!GTM_CONTAINER_ID) {
+    return "";
+  }
+  const id = escapeAttribute(GTM_CONTAINER_ID);
+  const idJs = escapeJsString(GTM_CONTAINER_ID);
+  return `<script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+      var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+      j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','${idJs}');
+    </script>`;
+}
+
+function renderGtmBodySnippet() {
+  if (!GTM_CONTAINER_ID) {
+    return "";
+  }
+  const id = escapeAttribute(GTM_CONTAINER_ID);
+  return `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${id}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>`;
+}
+
 function escapeHtml(value) {
   return String(value ?? "")
     .replaceAll("&", "&amp;")
@@ -812,6 +872,12 @@ function escapeHtml(value) {
 
 function escapeAttribute(value) {
   return escapeHtml(value).replaceAll("`", "&#96;");
+}
+
+function escapeJsString(value) {
+  return String(value ?? "")
+    .replaceAll("\\", "\\\\")
+    .replaceAll("'", "\\'");
 }
 
 async function writeJson(filePath, data) {

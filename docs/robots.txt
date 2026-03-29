@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://leandrosousa110490.github.io/amazonassociates/sitemap.xml
+Sitemap: https://leandrosousa110490.github.io/affeliate/sitemap.xml

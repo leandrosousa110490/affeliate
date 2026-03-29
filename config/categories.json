@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Top Video Game Deal",
+    "intro": "One standout game pick with strong reviews and a meaningful discount.",
+    "searchIndex": "All",
+    "minSavingPercent": 10,
+    "minReviewsRating": 4.2,
+    "itemCount": 6,
+    "keywords": [
+      "ps5 game deal",
+      "xbox series x game deal",
+      "nintendo switch game deal"
+    ]
+  },
+  {
+    "name": "High-Spec Laptop Deal",
+    "intro": "One premium laptop with strong specs, high ratings, and discount value.",
+    "searchIndex": "All",
+    "minSavingPercent": 10,
+    "minReviewsRating": 4.2,
+    "itemCount": 6,
+    "keywords": [
+      "gaming laptop deal",
+      "laptop deal 16gb 1tb i7",
+      "laptop ryzen 7 deal"
+    ]
+  },
+  {
+    "name": "Premium TV Deal",
+    "intro": "One high-quality TV with modern display specs and a solid discount.",
+    "searchIndex": "All",
+    "minSavingPercent": 10,
+    "minReviewsRating": 4.2,
+    "itemCount": 6,
+    "keywords": [
+      "4k tv deal",
+      "oled tv deal",
+      "mini led tv deal"
+    ]
+  }
+]

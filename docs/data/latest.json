@@ -1,0 +1,118 @@
+{
+  "id": "532c6ddd37",
+  "slug": "2026-03-29-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (March 29, 2026) - Top Products Worth Watching",
+  "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
+  "publishedAt": "2026-03-29T00:00:00.000Z",
+  "weekLabel": "March 29, 2026",
+  "source": "manual",
+  "productCount": 3,
+  "totalSavings": 761.34,
+  "sections": [
+    {
+      "name": "Top Video Game Deal",
+      "intro": "One standout game pick with strong reviews and a meaningful discount.",
+      "products": [
+        {
+          "asin": "B0D6J5Q94Y",
+          "title": "Sonic X Shadow Generations - Xbox Series X",
+          "detailPageUrl": "https://www.amazon.com/dp/B0D6J5Q94Y?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81YVAtZh10L._AC_UY218_.jpg",
+          "priceAmount": 18.65,
+          "priceDisplay": "$18.65",
+          "savingsAmount": 31.34,
+          "savingsPercent": 63,
+          "rating": 4.8,
+          "reviewCount": 602,
+          "salesRank": 0,
+          "isDeal": true,
+          "category": "Top Video Game Deal",
+          "keyword": "video game deal",
+          "featureBullets": [
+            "Verified discount signal: about 63% off list price.",
+            "Shopper confidence signal: 4.8 stars and 602 reviews.",
+            "Specs highlight: Xbox Series X."
+          ],
+          "manualSummary": "Sonic X Shadow Generations - Xbox Series X is currently listed at $18.65 with about 63% off versus list price. It has 4.8 stars across 602 reviews. Key specs: Xbox Series X.",
+          "sourceTag": "manual",
+          "score": 163.74,
+          "reasons": [
+            "63% discount signal",
+            "4.8 stars from 602 reviews"
+          ],
+          "readableSummary": "Sonic X Shadow Generations - Xbox Series X is currently listed at $18.65 with about 63% off versus list price. It has 4.8 stars across 602 reviews. Key specs: Xbox Series X."
+        }
+      ]
+    },
+    {
+      "name": "High-Spec Laptop Deal",
+      "intro": "One premium laptop with strong specs, high ratings, and discount value.",
+      "products": [
+        {
+          "asin": "B0F2JMX6RG",
+          "title": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53",
+          "detailPageUrl": "https://www.amazon.com/dp/B0F2JMX6RG?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ZEi4fMrzL._AC_UY218_.jpg",
+          "priceAmount": 969.99,
+          "priceDisplay": "$969.99",
+          "savingsAmount": 230,
+          "savingsPercent": 19,
+          "rating": 4.5,
+          "reviewCount": 193,
+          "salesRank": 0,
+          "isDeal": true,
+          "category": "High-Spec Laptop Deal",
+          "keyword": "high spec laptop deal",
+          "featureBullets": [
+            "Verified discount signal: about 19% off list price.",
+            "Shopper confidence signal: 4.5 stars and 193 reviews.",
+            "Specs highlight: 144Hz, Intel Core 5 210H, 16GB, DDR5."
+          ],
+          "manualSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $969.99 with about 19% off versus list price. It has 4.5 stars across 193 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5.",
+          "sourceTag": "manual",
+          "score": 88.97,
+          "reasons": [
+            "19% discount signal",
+            "4.5 stars from 193 reviews"
+          ],
+          "readableSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $969.99 with about 19% off versus list price. It has 4.5 stars across 193 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5."
+        }
+      ]
+    },
+    {
+      "name": "Premium TV Deal",
+      "intro": "One high-quality TV with modern display specs and a solid discount.",
+      "products": [
+        {
+          "asin": "B0F53CZ4WT",
+          "title": "TCL 65 Inch Class QM8K Series | Mini LED QLED 4K HDR | 65QM8K, 2025 Model | 120HZ-144HZ Anti Reflective Wide Angle Screen Smart Google TV Dolby Atmos | Voice Remote Alexa Gaming Streaming Television",
+          "detailPageUrl": "https://www.amazon.com/dp/B0F53CZ4WT?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/813ALMocWPL._AC_UY218_.jpg",
+          "priceAmount": 999.99,
+          "priceDisplay": "$999.99",
+          "savingsAmount": 500,
+          "savingsPercent": 33,
+          "rating": 4.4,
+          "reviewCount": 266,
+          "salesRank": 0,
+          "isDeal": true,
+          "category": "Premium TV Deal",
+          "keyword": "premium tv deal",
+          "featureBullets": [
+            "Verified discount signal: about 33% off list price.",
+            "Shopper confidence signal: 4.4 stars and 266 reviews.",
+            "Specs highlight: 65 Inch, QLED, 4K, 120HZ."
+          ],
+          "manualSummary": "TCL 65 Inch Class QM8K Series | Mini LED QLED 4K HDR | 65QM8K, 2025 Model | 120HZ-144HZ Anti Reflective Wide Angle Screen Smart Google TV Dolby Atmos | Voice Remote Alexa Gaming Streaming Television is currently listed at $999.99 with about 33% off versus list price. It has 4.4 stars across 266 reviews. Key specs: 65 Inch, QLED, 4K, 120HZ.",
+          "sourceTag": "manual",
+          "score": 111.08,
+          "reasons": [
+            "33% discount signal",
+            "4.4 stars from 266 reviews"
+          ],
+          "readableSummary": "TCL 65 Inch Class QM8K Series | Mini LED QLED 4K HDR | 65QM8K, 2025 Model | 120HZ-144HZ Anti Reflective Wide Angle Screen Smart Google TV Dolby Atmos | Voice Remote Alexa Gaming Streaming Television is currently listed at $999.99 with about 33% off versus list price. It has 4.4 stars across 266 reviews. Key specs: 65 Inch, QLED, 4K, 120HZ."
+        }
+      ]
+    }
+  ]
+}

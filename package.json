@@ -1,0 +1,17 @@
+{
+  "name": "amazonassociates",
+  "version": "1.0.0",
+  "description": "Static Amazon affiliate article site with weekly Creators API refresh.",
+  "type": "module",
+  "scripts": {
+    "refresh-manual": "node scripts/refresh-manual-products.mjs",
+    "build-content": "node scripts/generate-weekly-content.mjs",
+    "start": "python -m http.server 4173 --directory docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-creators-api": "^1.2.2"
+  }
+}

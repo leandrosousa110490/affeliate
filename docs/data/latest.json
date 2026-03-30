@@ -1,46 +1,46 @@
 {
-  "id": "532c6ddd37",
-  "slug": "2026-03-29-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (March 29, 2026) - Top Products Worth Watching",
+  "id": "b76642959b",
+  "slug": "2026-03-30-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (March 30, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-03-29T00:00:00.000Z",
-  "weekLabel": "March 29, 2026",
+  "publishedAt": "2026-03-30T00:00:00.000Z",
+  "weekLabel": "March 30, 2026",
   "source": "manual",
   "productCount": 3,
-  "totalSavings": 761.34,
+  "totalSavings": 767.8,
   "sections": [
     {
       "name": "Top Video Game Deal",
       "intro": "One standout game pick with strong reviews and a meaningful discount.",
       "products": [
         {
-          "asin": "B0D6J5Q94Y",
-          "title": "Sonic X Shadow Generations - Xbox Series X",
-          "detailPageUrl": "https://www.amazon.com/dp/B0D6J5Q94Y?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81YVAtZh10L._AC_UY218_.jpg",
-          "priceAmount": 18.65,
-          "priceDisplay": "$18.65",
-          "savingsAmount": 31.34,
-          "savingsPercent": 63,
-          "rating": 4.8,
-          "reviewCount": 602,
+          "asin": "B0FMBR859S",
+          "title": "Call of Duty : Black Ops 7 - Cross-Gen Bundle - Xbox Series X and Xbox One",
+          "detailPageUrl": "https://www.amazon.com/dp/B0FMBR859S?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81M2qJIFYNL._AC_UY218_.jpg",
+          "priceAmount": 32.19,
+          "priceDisplay": "$32.19",
+          "savingsAmount": 37.8,
+          "savingsPercent": 54,
+          "rating": 4.2,
+          "reviewCount": 176,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 63% off list price.",
-            "Shopper confidence signal: 4.8 stars and 602 reviews.",
-            "Specs highlight: Xbox Series X."
+            "Verified discount signal: about 54% off list price.",
+            "Shopper confidence signal: 4.2 stars and 176 reviews.",
+            "Specs highlight: Cross-Gen, Xbox Series X, Xbox."
           ],
-          "manualSummary": "Sonic X Shadow Generations - Xbox Series X is currently listed at $18.65 with about 63% off versus list price. It has 4.8 stars across 602 reviews. Key specs: Xbox Series X.",
+          "manualSummary": "Call of Duty : Black Ops 7 - Cross-Gen Bundle - Xbox Series X and Xbox One is currently listed at $32.19 with about 54% off versus list price. It has 4.2 stars across 176 reviews. Key specs: Cross-Gen, Xbox Series X, Xbox.",
           "sourceTag": "manual",
-          "score": 163.74,
+          "score": 148.78,
           "reasons": [
-            "63% discount signal",
-            "4.8 stars from 602 reviews"
+            "54% discount signal",
+            "4.2 stars from 176 reviews"
           ],
-          "readableSummary": "Sonic X Shadow Generations - Xbox Series X is currently listed at $18.65 with about 63% off versus list price. It has 4.8 stars across 602 reviews. Key specs: Xbox Series X."
+          "readableSummary": "Call of Duty : Black Ops 7 - Cross-Gen Bundle - Xbox Series X and Xbox One is currently listed at $32.19 with about 54% off versus list price. It has 4.2 stars across 176 reviews. Key specs: Cross-Gen, Xbox Series X, Xbox."
         }
       ]
     },
@@ -84,33 +84,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0F53CZ4WT",
-          "title": "TCL 65 Inch Class QM8K Series | Mini LED QLED 4K HDR | 65QM8K, 2025 Model | 120HZ-144HZ Anti Reflective Wide Angle Screen Smart Google TV Dolby Atmos | Voice Remote Alexa Gaming Streaming Television",
-          "detailPageUrl": "https://www.amazon.com/dp/B0F53CZ4WT?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/813ALMocWPL._AC_UY218_.jpg",
-          "priceAmount": 999.99,
-          "priceDisplay": "$999.99",
+          "asin": "B0DXN3SDLL",
+          "title": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in",
+          "detailPageUrl": "https://www.amazon.com/dp/B0DXN3SDLL?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81xEdh78lVL._AC_UY218_.jpg",
+          "priceAmount": 897.99,
+          "priceDisplay": "$897.99",
           "savingsAmount": 500,
-          "savingsPercent": 33,
-          "rating": 4.4,
-          "reviewCount": 266,
+          "savingsPercent": 36,
+          "rating": 4.2,
+          "reviewCount": 134,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 33% off list price.",
-            "Shopper confidence signal: 4.4 stars and 266 reviews.",
-            "Specs highlight: 65 Inch, QLED, 4K, 120HZ."
+            "Verified discount signal: about 36% off list price.",
+            "Shopper confidence signal: 4.2 stars and 134 reviews.",
+            "Specs highlight: 55-Inch, OLED, 4K, Dolby Atmos."
           ],
-          "manualSummary": "TCL 65 Inch Class QM8K Series | Mini LED QLED 4K HDR | 65QM8K, 2025 Model | 120HZ-144HZ Anti Reflective Wide Angle Screen Smart Google TV Dolby Atmos | Voice Remote Alexa Gaming Streaming Television is currently listed at $999.99 with about 33% off versus list price. It has 4.4 stars across 266 reviews. Key specs: 65 Inch, QLED, 4K, 120HZ.",
+          "manualSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $897.99 with about 36% off versus list price. It has 4.2 stars across 134 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos.",
           "sourceTag": "manual",
-          "score": 111.08,
+          "score": 113.74,
           "reasons": [
-            "33% discount signal",
-            "4.4 stars from 266 reviews"
+            "36% discount signal",
+            "4.2 stars from 134 reviews"
           ],
-          "readableSummary": "TCL 65 Inch Class QM8K Series | Mini LED QLED 4K HDR | 65QM8K, 2025 Model | 120HZ-144HZ Anti Reflective Wide Angle Screen Smart Google TV Dolby Atmos | Voice Remote Alexa Gaming Streaming Television is currently listed at $999.99 with about 33% off versus list price. It has 4.4 stars across 266 reviews. Key specs: 65 Inch, QLED, 4K, 120HZ."
+          "readableSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $897.99 with about 36% off versus list price. It has 4.2 stars across 134 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos."
         }
       ]
     }

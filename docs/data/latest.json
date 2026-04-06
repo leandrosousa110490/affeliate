@@ -1,46 +1,46 @@
 {
-  "id": "b76642959b",
-  "slug": "2026-03-30-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (March 30, 2026) - Top Products Worth Watching",
+  "id": "ee3cbae88d",
+  "slug": "2026-04-06-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (April 6, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-03-30T00:00:00.000Z",
-  "weekLabel": "March 30, 2026",
+  "publishedAt": "2026-04-06T00:00:00.000Z",
+  "weekLabel": "April 6, 2026",
   "source": "manual",
   "productCount": 3,
-  "totalSavings": 767.8,
+  "totalSavings": 1228.47,
   "sections": [
     {
       "name": "Top Video Game Deal",
       "intro": "One standout game pick with strong reviews and a meaningful discount.",
       "products": [
         {
-          "asin": "B0FMBR859S",
-          "title": "Call of Duty : Black Ops 7 - Cross-Gen Bundle - Xbox Series X and Xbox One",
-          "detailPageUrl": "https://www.amazon.com/dp/B0FMBR859S?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81M2qJIFYNL._AC_UY218_.jpg",
-          "priceAmount": 32.19,
-          "priceDisplay": "$32.19",
-          "savingsAmount": 37.8,
-          "savingsPercent": 54,
-          "rating": 4.2,
-          "reviewCount": 176,
+          "asin": "B0D6J5Q94Y",
+          "title": "Sonic X Shadow Generations - Xbox Series X",
+          "detailPageUrl": "https://www.amazon.com/dp/B0D6J5Q94Y?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81YVAtZh10L._AC_UY218_.jpg",
+          "priceAmount": 16.55,
+          "priceDisplay": "$16.55",
+          "savingsAmount": 33.44,
+          "savingsPercent": 67,
+          "rating": 4.8,
+          "reviewCount": 606,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 54% off list price.",
-            "Shopper confidence signal: 4.2 stars and 176 reviews.",
-            "Specs highlight: Cross-Gen, Xbox Series X, Xbox."
+            "Verified discount signal: about 67% off list price.",
+            "Shopper confidence signal: 4.8 stars and 606 reviews.",
+            "Specs highlight: Xbox Series X."
           ],
-          "manualSummary": "Call of Duty : Black Ops 7 - Cross-Gen Bundle - Xbox Series X and Xbox One is currently listed at $32.19 with about 54% off versus list price. It has 4.2 stars across 176 reviews. Key specs: Cross-Gen, Xbox Series X, Xbox.",
+          "manualSummary": "Sonic X Shadow Generations - Xbox Series X is currently listed at $16.55 with about 67% off versus list price. It has 4.8 stars across 606 reviews. Key specs: Xbox Series X.",
           "sourceTag": "manual",
-          "score": 148.78,
+          "score": 170.17,
           "reasons": [
-            "54% discount signal",
-            "4.2 stars from 176 reviews"
+            "67% discount signal",
+            "4.8 stars from 606 reviews"
           ],
-          "readableSummary": "Call of Duty : Black Ops 7 - Cross-Gen Bundle - Xbox Series X and Xbox One is currently listed at $32.19 with about 54% off versus list price. It has 4.2 stars across 176 reviews. Key specs: Cross-Gen, Xbox Series X, Xbox."
+          "readableSummary": "Sonic X Shadow Generations - Xbox Series X is currently listed at $16.55 with about 67% off versus list price. It has 4.8 stars across 606 reviews. Key specs: Xbox Series X."
         }
       ]
     },
@@ -49,33 +49,33 @@
       "intro": "One premium laptop with strong specs, high ratings, and discount value.",
       "products": [
         {
-          "asin": "B0F2JMX6RG",
-          "title": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53",
-          "detailPageUrl": "https://www.amazon.com/dp/B0F2JMX6RG?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ZEi4fMrzL._AC_UY218_.jpg",
-          "priceAmount": 969.99,
-          "priceDisplay": "$969.99",
-          "savingsAmount": 230,
-          "savingsPercent": 19,
-          "rating": 4.5,
-          "reviewCount": 193,
+          "asin": "B0BXFKXG6N",
+          "title": "Alienware 16 Aurora Gaming Laptop AC16250-16\" WQXGA 120Hz Display, Intel Core 7-240H Processor, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 5050 8GB Graphics, Windows 11 Home, Onsite Service - Blue",
+          "detailPageUrl": "https://www.amazon.com/dp/B0BXFKXG6N?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oM7NX7+yL._AC_UY218_.jpg",
+          "priceAmount": 1175,
+          "priceDisplay": "$1175.00",
+          "savingsAmount": 344.99,
+          "savingsPercent": 23,
+          "rating": 4.3,
+          "reviewCount": 223,
           "salesRank": 0,
           "isDeal": true,
           "category": "High-Spec Laptop Deal",
           "keyword": "high spec laptop deal",
           "featureBullets": [
-            "Verified discount signal: about 19% off list price.",
-            "Shopper confidence signal: 4.5 stars and 193 reviews.",
-            "Specs highlight: 144Hz, Intel Core 5 210H, 16GB, DDR5."
+            "Verified discount signal: about 23% off list price.",
+            "Shopper confidence signal: 4.3 stars and 223 reviews.",
+            "Specs highlight: Intel Core 7-240H Processor, 16GB, DDR5, 1TB."
           ],
-          "manualSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $969.99 with about 19% off versus list price. It has 4.5 stars across 193 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5.",
+          "manualSummary": "Alienware 16 Aurora Gaming Laptop AC16250-16\" WQXGA 120Hz Display, Intel Core 7-240H Processor, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 5050 8GB Graphics, Windows 11 Home, Onsite Service - Blue is currently listed at $1175.00 with about 23% off versus list price. It has 4.3 stars across 223 reviews. Key specs: Intel Core 7-240H Processor, 16GB, DDR5, 1TB.",
           "sourceTag": "manual",
-          "score": 88.97,
+          "score": 94.14,
           "reasons": [
-            "19% discount signal",
-            "4.5 stars from 193 reviews"
+            "23% discount signal",
+            "4.3 stars from 223 reviews"
           ],
-          "readableSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $969.99 with about 19% off versus list price. It has 4.5 stars across 193 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5."
+          "readableSummary": "Alienware 16 Aurora Gaming Laptop AC16250-16\" WQXGA 120Hz Display, Intel Core 7-240H Processor, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 5050 8GB Graphics, Windows 11 Home, Onsite Service - Blue is currently listed at $1175.00 with about 23% off versus list price. It has 4.3 stars across 223 reviews. Key specs: Intel Core 7-240H Processor, 16GB, DDR5, 1TB."
         }
       ]
     },
@@ -84,33 +84,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0DXN3SDLL",
-          "title": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in",
-          "detailPageUrl": "https://www.amazon.com/dp/B0DXN3SDLL?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81xEdh78lVL._AC_UY218_.jpg",
-          "priceAmount": 897.99,
-          "priceDisplay": "$897.99",
-          "savingsAmount": 500,
-          "savingsPercent": 36,
-          "rating": 4.2,
-          "reviewCount": 134,
+          "asin": "B0CWVKD6PM",
+          "title": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model)",
+          "detailPageUrl": "https://www.amazon.com/dp/B0CWVKD6PM?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QOmdrwGGL._AC_UY218_.jpg",
+          "priceAmount": 1047.95,
+          "priceDisplay": "$1047.95",
+          "savingsAmount": 850.04,
+          "savingsPercent": 45,
+          "rating": 4.3,
+          "reviewCount": 210,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 36% off list price.",
-            "Shopper confidence signal: 4.2 stars and 134 reviews.",
-            "Specs highlight: 55-Inch, OLED, 4K, Dolby Atmos."
+            "Verified discount signal: about 45% off list price.",
+            "Shopper confidence signal: 4.3 stars and 210 reviews.",
+            "Specs highlight: 65-Inch, OLED, 4K, Dolby Atmos."
           ],
-          "manualSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $897.99 with about 36% off versus list price. It has 4.2 stars across 134 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos.",
+          "manualSummary": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model) is currently listed at $1047.95 with about 45% off versus list price. It has 4.3 stars across 210 reviews. Key specs: 65-Inch, OLED, 4K, Dolby Atmos.",
           "sourceTag": "manual",
-          "score": 113.74,
+          "score": 129.27,
           "reasons": [
-            "36% discount signal",
-            "4.2 stars from 134 reviews"
+            "45% discount signal",
+            "4.3 stars from 210 reviews"
           ],
-          "readableSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $897.99 with about 36% off versus list price. It has 4.2 stars across 134 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos."
+          "readableSummary": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model) is currently listed at $1047.95 with about 45% off versus list price. It has 4.3 stars across 210 reviews. Key specs: 65-Inch, OLED, 4K, Dolby Atmos."
         }
       ]
     }

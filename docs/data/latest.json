@@ -1,46 +1,46 @@
 {
-  "id": "ee3cbae88d",
-  "slug": "2026-04-06-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (April 6, 2026) - Top Products Worth Watching",
+  "id": "cc9a0c58f8",
+  "slug": "2026-04-13-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (April 13, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-04-06T00:00:00.000Z",
-  "weekLabel": "April 6, 2026",
+  "publishedAt": "2026-04-13T00:00:00.000Z",
+  "weekLabel": "April 13, 2026",
   "source": "manual",
   "productCount": 3,
-  "totalSavings": 1228.47,
+  "totalSavings": 647.55,
   "sections": [
     {
       "name": "Top Video Game Deal",
       "intro": "One standout game pick with strong reviews and a meaningful discount.",
       "products": [
         {
-          "asin": "B0D6J5Q94Y",
-          "title": "Sonic X Shadow Generations - Xbox Series X",
-          "detailPageUrl": "https://www.amazon.com/dp/B0D6J5Q94Y?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81YVAtZh10L._AC_UY218_.jpg",
-          "priceAmount": 16.55,
-          "priceDisplay": "$16.55",
-          "savingsAmount": 33.44,
-          "savingsPercent": 67,
-          "rating": 4.8,
-          "reviewCount": 606,
+          "asin": "B0FDR9641P",
+          "title": "Little Nightmares III PS5 Deluxe Edition",
+          "detailPageUrl": "https://www.amazon.com/dp/B0FDR9641P?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TQp2Xp+hL._AC_UY218_.jpg",
+          "priceAmount": 31.43,
+          "priceDisplay": "$31.43",
+          "savingsAmount": 28.56,
+          "savingsPercent": 48,
+          "rating": 4.5,
+          "reviewCount": 111,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 67% off list price.",
-            "Shopper confidence signal: 4.8 stars and 606 reviews.",
-            "Specs highlight: Xbox Series X."
+            "Verified discount signal: about 48% off list price.",
+            "Shopper confidence signal: 4.5 stars and 111 reviews.",
+            "Specs highlight: PS5, Deluxe Edition."
           ],
-          "manualSummary": "Sonic X Shadow Generations - Xbox Series X is currently listed at $16.55 with about 67% off versus list price. It has 4.8 stars across 606 reviews. Key specs: Xbox Series X.",
+          "manualSummary": "Little Nightmares III PS5 Deluxe Edition is currently listed at $31.43 with about 48% off versus list price. It has 4.5 stars across 111 reviews. Key specs: PS5, Deluxe Edition.",
           "sourceTag": "manual",
-          "score": 170.17,
+          "score": 140.92,
           "reasons": [
-            "67% discount signal",
-            "4.8 stars from 606 reviews"
+            "48% discount signal",
+            "4.5 stars from 111 reviews"
           ],
-          "readableSummary": "Sonic X Shadow Generations - Xbox Series X is currently listed at $16.55 with about 67% off versus list price. It has 4.8 stars across 606 reviews. Key specs: Xbox Series X."
+          "readableSummary": "Little Nightmares III PS5 Deluxe Edition is currently listed at $31.43 with about 48% off versus list price. It has 4.5 stars across 111 reviews. Key specs: PS5, Deluxe Edition."
         }
       ]
     },
@@ -49,33 +49,33 @@
       "intro": "One premium laptop with strong specs, high ratings, and discount value.",
       "products": [
         {
-          "asin": "B0BXFKXG6N",
-          "title": "Alienware 16 Aurora Gaming Laptop AC16250-16\" WQXGA 120Hz Display, Intel Core 7-240H Processor, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 5050 8GB Graphics, Windows 11 Home, Onsite Service - Blue",
-          "detailPageUrl": "https://www.amazon.com/dp/B0BXFKXG6N?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/71oM7NX7+yL._AC_UY218_.jpg",
-          "priceAmount": 1175,
-          "priceDisplay": "$1175.00",
-          "savingsAmount": 344.99,
-          "savingsPercent": 23,
-          "rating": 4.3,
-          "reviewCount": 223,
+          "asin": "B0F2JMX6RG",
+          "title": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53",
+          "detailPageUrl": "https://www.amazon.com/dp/B0F2JMX6RG?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ZEi4fMrzL._AC_UY218_.jpg",
+          "priceAmount": 931,
+          "priceDisplay": "$931.00",
+          "savingsAmount": 268.99,
+          "savingsPercent": 22,
+          "rating": 4.5,
+          "reviewCount": 204,
           "salesRank": 0,
           "isDeal": true,
           "category": "High-Spec Laptop Deal",
           "keyword": "high spec laptop deal",
           "featureBullets": [
-            "Verified discount signal: about 23% off list price.",
-            "Shopper confidence signal: 4.3 stars and 223 reviews.",
-            "Specs highlight: Intel Core 7-240H Processor, 16GB, DDR5, 1TB."
+            "Verified discount signal: about 22% off list price.",
+            "Shopper confidence signal: 4.5 stars and 204 reviews.",
+            "Specs highlight: 144Hz, Intel Core 5 210H, 16GB, DDR5."
           ],
-          "manualSummary": "Alienware 16 Aurora Gaming Laptop AC16250-16\" WQXGA 120Hz Display, Intel Core 7-240H Processor, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 5050 8GB Graphics, Windows 11 Home, Onsite Service - Blue is currently listed at $1175.00 with about 23% off versus list price. It has 4.3 stars across 223 reviews. Key specs: Intel Core 7-240H Processor, 16GB, DDR5, 1TB.",
+          "manualSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $931.00 with about 22% off versus list price. It has 4.5 stars across 204 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5.",
           "sourceTag": "manual",
-          "score": 94.14,
+          "score": 93.83,
           "reasons": [
-            "23% discount signal",
-            "4.3 stars from 223 reviews"
+            "22% discount signal",
+            "4.5 stars from 204 reviews"
           ],
-          "readableSummary": "Alienware 16 Aurora Gaming Laptop AC16250-16\" WQXGA 120Hz Display, Intel Core 7-240H Processor, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 5050 8GB Graphics, Windows 11 Home, Onsite Service - Blue is currently listed at $1175.00 with about 23% off versus list price. It has 4.3 stars across 223 reviews. Key specs: Intel Core 7-240H Processor, 16GB, DDR5, 1TB."
+          "readableSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $931.00 with about 22% off versus list price. It has 4.5 stars across 204 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5."
         }
       ]
     },
@@ -84,33 +84,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0CWVKD6PM",
-          "title": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model)",
-          "detailPageUrl": "https://www.amazon.com/dp/B0CWVKD6PM?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/71QOmdrwGGL._AC_UY218_.jpg",
-          "priceAmount": 1047.95,
-          "priceDisplay": "$1047.95",
-          "savingsAmount": 850.04,
-          "savingsPercent": 45,
+          "asin": "B0DYWNQMQJ",
+          "title": "Hisense 75\" Class U6 Series Mini-LED 4K UHD Smart Fire TV (75U65QF, 2025 Model) - QLED, HDR10+, Native 144Hz, Dolby Vision IQ, Dolby Atmos, Game Mode Pro, ALLM, Alexa Built in, Black",
+          "detailPageUrl": "https://www.amazon.com/dp/B0DYWNQMQJ?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ASERjdO1L._AC_UY218_.jpg",
+          "priceAmount": 549.99,
+          "priceDisplay": "$549.99",
+          "savingsAmount": 350,
+          "savingsPercent": 39,
           "rating": 4.3,
-          "reviewCount": 210,
+          "reviewCount": 740,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 45% off list price.",
-            "Shopper confidence signal: 4.3 stars and 210 reviews.",
-            "Specs highlight: 65-Inch, OLED, 4K, Dolby Atmos."
+            "Verified discount signal: about 39% off list price.",
+            "Shopper confidence signal: 4.3 stars and 740 reviews.",
+            "Specs highlight: Mini-LED, 4K, QLED, HDR10+."
           ],
-          "manualSummary": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model) is currently listed at $1047.95 with about 45% off versus list price. It has 4.3 stars across 210 reviews. Key specs: 65-Inch, OLED, 4K, Dolby Atmos.",
+          "manualSummary": "Hisense 75\" Class U6 Series Mini-LED 4K UHD Smart Fire TV (75U65QF, 2025 Model) - QLED, HDR10+, Native 144Hz, Dolby Vision IQ, Dolby Atmos, Game Mode Pro, ALLM, Alexa Built in, Black is currently listed at $549.99 with about 39% off versus list price. It has 4.3 stars across 740 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+.",
           "sourceTag": "manual",
-          "score": 129.27,
+          "score": 122.61,
           "reasons": [
-            "45% discount signal",
-            "4.3 stars from 210 reviews"
+            "39% discount signal",
+            "4.3 stars from 740 reviews"
           ],
-          "readableSummary": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model) is currently listed at $1047.95 with about 45% off versus list price. It has 4.3 stars across 210 reviews. Key specs: 65-Inch, OLED, 4K, Dolby Atmos."
+          "readableSummary": "Hisense 75\" Class U6 Series Mini-LED 4K UHD Smart Fire TV (75U65QF, 2025 Model) - QLED, HDR10+, Native 144Hz, Dolby Vision IQ, Dolby Atmos, Game Mode Pro, ALLM, Alexa Built in, Black is currently listed at $549.99 with about 39% off versus list price. It has 4.3 stars across 740 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+."
         }
       ]
     }

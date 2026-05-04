@@ -1,46 +1,46 @@
 {
-  "id": "f030b4254c",
-  "slug": "2026-04-27-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (April 27, 2026) - Top Products Worth Watching",
+  "id": "f47603d713",
+  "slug": "2026-05-04-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (May 4, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-04-27T00:00:00.000Z",
-  "weekLabel": "April 27, 2026",
+  "publishedAt": "2026-05-04T00:00:00.000Z",
+  "weekLabel": "May 4, 2026",
   "source": "manual",
   "productCount": 2,
-  "totalSavings": 887.57,
+  "totalSavings": 509.99,
   "sections": [
     {
       "name": "Top Video Game Deal",
       "intro": "One standout game pick with strong reviews and a meaningful discount.",
       "products": [
         {
-          "asin": "B0FMBR859S",
-          "title": "Call of Duty: Black Ops 7 | Cross-Gen Bundle | Xbox Series X and Xbox One",
-          "detailPageUrl": "https://www.amazon.com/dp/B0FMBR859S?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81M2qJIFYNL._AC_UY218_.jpg",
-          "priceAmount": 32.46,
-          "priceDisplay": "$32.46",
-          "savingsAmount": 37.53,
-          "savingsPercent": 54,
-          "rating": 4.2,
-          "reviewCount": 190,
+          "asin": "B0FH5D89JR",
+          "title": "NBA 2K26 - Xbox Series X",
+          "detailPageUrl": "https://www.amazon.com/dp/B0FH5D89JR?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/811Mnde97WL._AC_UY218_.jpg",
+          "priceAmount": 10,
+          "priceDisplay": "$10.00",
+          "savingsAmount": 9.99,
+          "savingsPercent": 50,
+          "rating": 4.7,
+          "reviewCount": 366,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 54% off list price.",
-            "Shopper confidence signal: 4.2 stars and 190 reviews.",
-            "Specs highlight: Cross-Gen, Xbox Series X, Xbox."
+            "Verified discount signal: about 50% off list price.",
+            "Shopper confidence signal: 4.7 stars and 366 reviews.",
+            "Specs highlight: Xbox Series X."
           ],
-          "manualSummary": "Call of Duty: Black Ops 7 | Cross-Gen Bundle | Xbox Series X and Xbox One is currently listed at $32.46 with about 54% off versus list price. It has 4.2 stars across 190 reviews. Key specs: Cross-Gen, Xbox Series X, Xbox.",
+          "manualSummary": "NBA 2K26 - Xbox Series X is currently listed at $10.00 with about 50% off versus list price. It has 4.7 stars across 366 reviews. Key specs: Xbox Series X.",
           "sourceTag": "manual",
-          "score": 148.86,
+          "score": 140.93,
           "reasons": [
-            "54% discount signal",
-            "4.2 stars from 190 reviews"
+            "50% discount signal",
+            "4.7 stars from 366 reviews"
           ],
-          "readableSummary": "Call of Duty: Black Ops 7 | Cross-Gen Bundle | Xbox Series X and Xbox One is currently listed at $32.46 with about 54% off versus list price. It has 4.2 stars across 190 reviews. Key specs: Cross-Gen, Xbox Series X, Xbox."
+          "readableSummary": "NBA 2K26 - Xbox Series X is currently listed at $10.00 with about 50% off versus list price. It has 4.7 stars across 366 reviews. Key specs: Xbox Series X."
         }
       ]
     },
@@ -49,33 +49,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0CWVKD6PM",
-          "title": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model)",
-          "detailPageUrl": "https://www.amazon.com/dp/B0CWVKD6PM?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/71QOmdrwGGL._AC_UY218_.jpg",
-          "priceAmount": 1047.95,
-          "priceDisplay": "$1047.95",
-          "savingsAmount": 850.04,
-          "savingsPercent": 45,
-          "rating": 4.2,
-          "reviewCount": 210,
+          "asin": "B0DYQ41RHB",
+          "title": "LG 48-Inch Class OLED evo AI Super Upscaling 4K C5 Series Smart TV w/Dolby Atmos & Vision, HDR10, Filmmaker Mode, Wow Orchestra, Alexa Built-in (OLED48C5PUA, 2025)",
+          "detailPageUrl": "https://www.amazon.com/dp/B0DYQ41RHB?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/915aJdohJQL._AC_UY218_.jpg",
+          "priceAmount": 896.99,
+          "priceDisplay": "$896.99",
+          "savingsAmount": 500,
+          "savingsPercent": 36,
+          "rating": 4.6,
+          "reviewCount": 1146,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 45% off list price.",
-            "Shopper confidence signal: 4.2 stars and 210 reviews.",
-            "Specs highlight: 65-Inch, OLED, 4K, Dolby Atmos."
+            "Verified discount signal: about 36% off list price.",
+            "Shopper confidence signal: 4.6 stars and 1,146 reviews.",
+            "Specs highlight: 48-Inch, OLED, 4K, Dolby Atmos."
           ],
-          "manualSummary": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model) is currently listed at $1047.95 with about 45% off versus list price. It has 4.2 stars across 210 reviews. Key specs: 65-Inch, OLED, 4K, Dolby Atmos.",
+          "manualSummary": "LG 48-Inch Class OLED evo AI Super Upscaling 4K C5 Series Smart TV w/Dolby Atmos & Vision, HDR10, Filmmaker Mode, Wow Orchestra, Alexa Built-in (OLED48C5PUA, 2025) is currently listed at $896.99 with about 36% off versus list price. It has 4.6 stars across 1,146 reviews. Key specs: 48-Inch, OLED, 4K, Dolby Atmos.",
           "sourceTag": "manual",
-          "score": 128.57,
+          "score": 122.17,
           "reasons": [
-            "45% discount signal",
-            "4.2 stars from 210 reviews"
+            "36% discount signal",
+            "4.6 stars from 1,146 reviews"
           ],
-          "readableSummary": "SAMSUNG 65-Inch Class OLED 4K S85D Series HDR Smart TV w/Dolby Atmos, Object Tracking Sound Lite, Contour Design, Motion Xcelerator, Real Depth Enhancer, Alexa Built-in (QN65S85D, 2024 Model) is currently listed at $1047.95 with about 45% off versus list price. It has 4.2 stars across 210 reviews. Key specs: 65-Inch, OLED, 4K, Dolby Atmos."
+          "readableSummary": "LG 48-Inch Class OLED evo AI Super Upscaling 4K C5 Series Smart TV w/Dolby Atmos & Vision, HDR10, Filmmaker Mode, Wow Orchestra, Alexa Built-in (OLED48C5PUA, 2025) is currently listed at $896.99 with about 36% off versus list price. It has 4.6 stars across 1,146 reviews. Key specs: 48-Inch, OLED, 4K, Dolby Atmos."
         }
       ]
     }

@@ -1,46 +1,46 @@
 {
-  "id": "caa3a11b7d",
-  "slug": "2026-05-18-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (May 18, 2026) - Top Products Worth Watching",
+  "id": "f3d8fd2cf2",
+  "slug": "2026-05-25-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (May 25, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-05-18T00:00:00.000Z",
-  "weekLabel": "May 18, 2026",
+  "publishedAt": "2026-05-25T00:00:00.000Z",
+  "weekLabel": "May 25, 2026",
   "source": "manual",
   "productCount": 2,
-  "totalSavings": 609.99,
+  "totalSavings": 516.44,
   "sections": [
     {
       "name": "Top Video Game Deal",
       "intro": "One standout game pick with strong reviews and a meaningful discount.",
       "products": [
         {
-          "asin": "B0FH5D89JR",
-          "title": "NBA 2K26 - Xbox Series X",
-          "detailPageUrl": "https://www.amazon.com/dp/B0FH5D89JR?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/811Mnde97WL._AC_UY218_.jpg",
-          "priceAmount": 10,
-          "priceDisplay": "$10.00",
-          "savingsAmount": 9.99,
-          "savingsPercent": 50,
+          "asin": "B0D4RJGFDT",
+          "title": "METAL GEAR SOLID : SNAKE EATER TACTICAL ED - PS5",
+          "detailPageUrl": "https://www.amazon.com/dp/B0D4RJGFDT?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/915Egnuk2uL._AC_UY218_.jpg",
+          "priceAmount": 33.55,
+          "priceDisplay": "$33.55",
+          "savingsAmount": 16.44,
+          "savingsPercent": 33,
           "rating": 4.7,
-          "reviewCount": 376,
+          "reviewCount": 1150,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 50% off list price.",
-            "Shopper confidence signal: 4.7 stars and 376 reviews.",
-            "Specs highlight: Xbox Series X."
+            "Verified discount signal: about 33% off list price.",
+            "Shopper confidence signal: 4.7 stars and 1,150 reviews.",
+            "Specs highlight: PS5."
           ],
-          "manualSummary": "NBA 2K26 - Xbox Series X is currently listed at $10.00 with about 50% off versus list price. It has 4.7 stars across 376 reviews. Key specs: Xbox Series X.",
+          "manualSummary": "METAL GEAR SOLID : SNAKE EATER TACTICAL ED - PS5 is currently listed at $33.55 with about 33% off versus list price. It has 4.7 stars across 1,150 reviews. Key specs: PS5.",
           "sourceTag": "manual",
-          "score": 140.99,
+          "score": 124.09,
           "reasons": [
-            "50% discount signal",
-            "4.7 stars from 376 reviews"
+            "33% discount signal",
+            "4.7 stars from 1,150 reviews"
           ],
-          "readableSummary": "NBA 2K26 - Xbox Series X is currently listed at $10.00 with about 50% off versus list price. It has 4.7 stars across 376 reviews. Key specs: Xbox Series X."
+          "readableSummary": "METAL GEAR SOLID : SNAKE EATER TACTICAL ED - PS5 is currently listed at $33.55 with about 33% off versus list price. It has 4.7 stars across 1,150 reviews. Key specs: PS5."
         }
       ]
     },
@@ -53,29 +53,29 @@
           "title": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in",
           "detailPageUrl": "https://www.amazon.com/dp/B0DXN3SDLL?tag=alyssasousa-20",
           "imageUrl": "https://m.media-amazon.com/images/I/81xEdh78lVL._AC_UY218_.jpg",
-          "priceAmount": 797.99,
-          "priceDisplay": "$797.99",
-          "savingsAmount": 600,
-          "savingsPercent": 43,
+          "priceAmount": 897.99,
+          "priceDisplay": "$897.99",
+          "savingsAmount": 500,
+          "savingsPercent": 36,
           "rating": 4.3,
-          "reviewCount": 152,
+          "reviewCount": 156,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 43% off list price.",
-            "Shopper confidence signal: 4.3 stars and 152 reviews.",
+            "Verified discount signal: about 36% off list price.",
+            "Shopper confidence signal: 4.3 stars and 156 reviews.",
             "Specs highlight: 55-Inch, OLED, 4K, Dolby Atmos."
           ],
-          "manualSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $797.99 with about 43% off versus list price. It has 4.3 stars across 152 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos.",
+          "manualSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $897.99 with about 36% off versus list price. It has 4.3 stars across 156 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos.",
           "sourceTag": "manual",
-          "score": 125.74,
+          "score": 114.57,
           "reasons": [
-            "43% discount signal",
-            "4.3 stars from 152 reviews"
+            "36% discount signal",
+            "4.3 stars from 156 reviews"
           ],
-          "readableSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $797.99 with about 43% off versus list price. It has 4.3 stars across 152 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos."
+          "readableSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $897.99 with about 36% off versus list price. It has 4.3 stars across 156 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos."
         }
       ]
     }

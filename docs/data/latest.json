@@ -1,81 +1,81 @@
 {
-  "id": "33a0a9dac1",
-  "slug": "2026-06-01-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (June 1, 2026) - Top Products Worth Watching",
+  "id": "fe29e0d87f",
+  "slug": "2026-06-08-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (June 8, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-06-01T00:00:00.000Z",
-  "weekLabel": "June 1, 2026",
+  "publishedAt": "2026-06-08T00:00:00.000Z",
+  "weekLabel": "June 8, 2026",
   "source": "manual",
   "productCount": 2,
-  "totalSavings": 535.5,
+  "totalSavings": 209.99,
   "sections": [
     {
       "name": "Top Video Game Deal",
       "intro": "One standout game pick with strong reviews and a meaningful discount.",
       "products": [
         {
-          "asin": "B0FMBR859S",
-          "title": "Call of Duty: Black Ops 7 | Cross-Gen Bundle | Xbox Series X and Xbox One",
-          "detailPageUrl": "https://www.amazon.com/dp/B0FMBR859S?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81M2qJIFYNL._AC_UY218_.jpg",
-          "priceAmount": 34.49,
-          "priceDisplay": "$34.49",
-          "savingsAmount": 35.5,
-          "savingsPercent": 51,
-          "rating": 4.3,
-          "reviewCount": 211,
+          "asin": "B0FH5D89JR",
+          "title": "NBA 2K26 - Xbox Series X",
+          "detailPageUrl": "https://www.amazon.com/dp/B0FH5D89JR?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/811Mnde97WL._AC_UY218_.jpg",
+          "priceAmount": 10,
+          "priceDisplay": "$10.00",
+          "savingsAmount": 9.99,
+          "savingsPercent": 50,
+          "rating": 4.7,
+          "reviewCount": 393,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 51% off list price.",
-            "Shopper confidence signal: 4.3 stars and 211 reviews.",
-            "Specs highlight: Cross-Gen, Xbox Series X, Xbox."
+            "Verified discount signal: about 50% off list price.",
+            "Shopper confidence signal: 4.7 stars and 393 reviews.",
+            "Specs highlight: Xbox Series X."
           ],
-          "manualSummary": "Call of Duty: Black Ops 7 | Cross-Gen Bundle | Xbox Series X and Xbox One is currently listed at $34.49 with about 51% off versus list price. It has 4.3 stars across 211 reviews. Key specs: Cross-Gen, Xbox Series X, Xbox.",
+          "manualSummary": "NBA 2K26 - Xbox Series X is currently listed at $10.00 with about 50% off versus list price. It has 4.7 stars across 393 reviews. Key specs: Xbox Series X.",
           "sourceTag": "manual",
-          "score": 144.87,
+          "score": 141.08,
           "reasons": [
-            "51% discount signal",
-            "4.3 stars from 211 reviews"
+            "50% discount signal",
+            "4.7 stars from 393 reviews"
           ],
-          "readableSummary": "Call of Duty: Black Ops 7 | Cross-Gen Bundle | Xbox Series X and Xbox One is currently listed at $34.49 with about 51% off versus list price. It has 4.3 stars across 211 reviews. Key specs: Cross-Gen, Xbox Series X, Xbox."
+          "readableSummary": "NBA 2K26 - Xbox Series X is currently listed at $10.00 with about 50% off versus list price. It has 4.7 stars across 393 reviews. Key specs: Xbox Series X."
         }
       ]
     },
     {
-      "name": "Premium TV Deal",
-      "intro": "One high-quality TV with modern display specs and a solid discount.",
+      "name": "High-Spec Laptop Deal",
+      "intro": "One premium laptop with strong specs, high ratings, and discount value.",
       "products": [
         {
-          "asin": "B0DXN3SDLL",
-          "title": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in",
-          "detailPageUrl": "https://www.amazon.com/dp/B0DXN3SDLL?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81xEdh78lVL._AC_UY218_.jpg",
-          "priceAmount": 897.99,
-          "priceDisplay": "$897.99",
-          "savingsAmount": 500,
-          "savingsPercent": 36,
-          "rating": 4.4,
-          "reviewCount": 159,
+          "asin": "B0F2JMX6RG",
+          "title": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53",
+          "detailPageUrl": "https://www.amazon.com/dp/B0F2JMX6RG?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ZEi4fMrzL._AC_UY218_.jpg",
+          "priceAmount": 999.99,
+          "priceDisplay": "$999.99",
+          "savingsAmount": 200,
+          "savingsPercent": 17,
+          "rating": 4.5,
+          "reviewCount": 187,
           "salesRank": 0,
           "isDeal": true,
-          "category": "Premium TV Deal",
-          "keyword": "premium tv deal",
+          "category": "High-Spec Laptop Deal",
+          "keyword": "high spec laptop deal",
           "featureBullets": [
-            "Verified discount signal: about 36% off list price.",
-            "Shopper confidence signal: 4.4 stars and 159 reviews.",
-            "Specs highlight: 55-Inch, OLED, 4K, Dolby Atmos."
+            "Verified discount signal: about 17% off list price.",
+            "Shopper confidence signal: 4.5 stars and 187 reviews.",
+            "Specs highlight: 144Hz, Intel Core 5 210H, 16GB, DDR5."
           ],
-          "manualSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $897.99 with about 36% off versus list price. It has 4.4 stars across 159 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos.",
+          "manualSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $999.99 with about 17% off versus list price. It has 4.5 stars across 187 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5.",
           "sourceTag": "manual",
-          "score": 115.28,
+          "score": 85.74,
           "reasons": [
-            "36% discount signal",
-            "4.4 stars from 159 reviews"
+            "17% discount signal",
+            "4.5 stars from 187 reviews"
           ],
-          "readableSummary": "Samsung 55-Inch Class OLED 4K S85F Series, Vision AI Smart TV (2025 Model, 55S85F) Object Tracking Sound Lite w/Dolby Atmos, NQ4 AI Gen2 Processor, Contour Design, Color Booster Pro, Alexa Built-in is currently listed at $897.99 with about 36% off versus list price. It has 4.4 stars across 159 reviews. Key specs: 55-Inch, OLED, 4K, Dolby Atmos."
+          "readableSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $999.99 with about 17% off versus list price. It has 4.5 stars across 187 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5."
         }
       ]
     }

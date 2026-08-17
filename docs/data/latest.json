@@ -1,13 +1,13 @@
 {
-  "id": "69d87c8cc3",
-  "slug": "2026-08-10-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (August 10, 2026) - Top Products Worth Watching",
+  "id": "5923f6ce24",
+  "slug": "2026-08-17-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (August 17, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-08-10T00:00:00.000Z",
-  "weekLabel": "August 10, 2026",
+  "publishedAt": "2026-08-17T00:00:00.000Z",
+  "weekLabel": "August 17, 2026",
   "source": "manual",
   "productCount": 3,
-  "totalSavings": 873.03,
+  "totalSavings": 744.12,
   "sections": [
     {
       "name": "Top Video Game Deal",
@@ -23,24 +23,24 @@
           "savingsAmount": 25.02,
           "savingsPercent": 50,
           "rating": 4.8,
-          "reviewCount": 3576,
+          "reviewCount": 3585,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
             "Verified discount signal: about 50% off list price.",
-            "Shopper confidence signal: 4.8 stars and 3,576 reviews.",
+            "Shopper confidence signal: 4.8 stars and 3,585 reviews.",
             "Specs highlight: Nintendo Switch."
           ],
-          "manualSummary": "Sonic X Shadow Generations - Nintendo Switch is currently listed at $24.97 with about 50% off versus list price. It has 4.8 stars across 3,576 reviews. Key specs: Nintendo Switch.",
+          "manualSummary": "Sonic X Shadow Generations - Nintendo Switch is currently listed at $24.97 with about 50% off versus list price. It has 4.8 stars across 3,585 reviews. Key specs: Nintendo Switch.",
           "sourceTag": "manual",
-          "score": 165.47,
+          "score": 165.52,
           "reasons": [
             "50% discount signal",
-            "4.8 stars from 3,576 reviews"
+            "4.8 stars from 3,585 reviews"
           ],
-          "readableSummary": "Sonic X Shadow Generations - Nintendo Switch is currently listed at $24.97 with about 50% off versus list price. It has 4.8 stars across 3,576 reviews. Key specs: Nintendo Switch."
+          "readableSummary": "Sonic X Shadow Generations - Nintendo Switch is currently listed at $24.97 with about 50% off versus list price. It has 4.8 stars across 3,585 reviews. Key specs: Nintendo Switch."
         }
       ]
     },
@@ -53,29 +53,29 @@
           "title": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53",
           "detailPageUrl": "https://www.amazon.com/dp/B0F2JMX6RG?tag=alyssasousa-20",
           "imageUrl": "https://m.media-amazon.com/images/I/71ZEi4fMrzL._AC_UY218_.jpg",
-          "priceAmount": 999.99,
-          "priceDisplay": "$999.99",
-          "savingsAmount": 200,
-          "savingsPercent": 17,
+          "priceAmount": 1078.9,
+          "priceDisplay": "$1078.90",
+          "savingsAmount": 121.09,
+          "savingsPercent": 10,
           "rating": 4.4,
-          "reviewCount": 223,
+          "reviewCount": 225,
           "salesRank": 0,
           "isDeal": true,
           "category": "High-Spec Laptop Deal",
           "keyword": "high spec laptop deal",
           "featureBullets": [
-            "Verified discount signal: about 17% off list price.",
-            "Shopper confidence signal: 4.4 stars and 223 reviews.",
+            "Verified discount signal: about 10% off list price.",
+            "Shopper confidence signal: 4.4 stars and 225 reviews.",
             "Specs highlight: 144Hz, Intel Core 5 210H, 16GB, DDR5."
           ],
-          "manualSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $999.99 with about 17% off versus list price. It has 4.4 stars across 223 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5.",
+          "manualSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $1078.90 with about 10% off versus list price. It has 4.4 stars across 225 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5.",
           "sourceTag": "manual",
-          "score": 85.24,
+          "score": 74.05,
           "reasons": [
-            "17% discount signal",
-            "4.4 stars from 223 reviews"
+            "10% discount signal",
+            "4.4 stars from 225 reviews"
           ],
-          "readableSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $999.99 with about 17% off versus list price. It has 4.4 stars across 223 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5."
+          "readableSummary": "ASUS TUF Gaming F16 Gaming Laptop, 16\" FHD+ 144Hz IPS-Level 16:10 Display, Intel Core 5 210H, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB PCIe Gen4 SSD, Wi-Fi 6, Win11 Home, FX607VU-SS53 is currently listed at $1078.90 with about 10% off versus list price. It has 4.4 stars across 225 reviews. Key specs: 144Hz, Intel Core 5 210H, 16GB, DDR5."
         }
       ]
     },
@@ -88,29 +88,29 @@
           "title": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch",
           "detailPageUrl": "https://www.amazon.com/dp/B0GR9NQZQQ?tag=alyssasousa-20",
           "imageUrl": "https://m.media-amazon.com/images/I/81p5zqj7xQL._AC_UY218_.jpg",
-          "priceAmount": 649.99,
-          "priceDisplay": "$649.99",
-          "savingsAmount": 648.01,
-          "savingsPercent": 50,
+          "priceAmount": 699.99,
+          "priceDisplay": "$699.99",
+          "savingsAmount": 598.01,
+          "savingsPercent": 46,
           "rating": 4.4,
-          "reviewCount": 174,
+          "reviewCount": 189,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 50% off list price.",
-            "Shopper confidence signal: 4.4 stars and 174 reviews.",
+            "Verified discount signal: about 46% off list price.",
+            "Shopper confidence signal: 4.4 stars and 189 reviews.",
             "Specs highlight: Mini-LED, 4K, QLED, HDR10+."
           ],
-          "manualSummary": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch is currently listed at $649.99 with about 50% off versus list price. It has 4.4 stars across 174 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+.",
+          "manualSummary": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch is currently listed at $699.99 with about 46% off versus list price. It has 4.4 stars across 189 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+.",
           "sourceTag": "manual",
-          "score": 137.77,
+          "score": 131.45,
           "reasons": [
-            "50% discount signal",
-            "4.4 stars from 174 reviews"
+            "46% discount signal",
+            "4.4 stars from 189 reviews"
           ],
-          "readableSummary": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch is currently listed at $649.99 with about 50% off versus list price. It has 4.4 stars across 174 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+."
+          "readableSummary": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming Google Smart TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch is currently listed at $699.99 with about 46% off versus list price. It has 4.4 stars across 189 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+."
         }
       ]
     }

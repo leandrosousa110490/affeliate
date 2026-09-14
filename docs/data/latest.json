@@ -1,13 +1,13 @@
 {
-  "id": "67c5781a22",
-  "slug": "2026-09-07-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (September 7, 2026) - Top Products Worth Watching",
+  "id": "5e95e2f569",
+  "slug": "2026-09-14-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (September 14, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-09-07T00:00:00.000Z",
-  "weekLabel": "September 7, 2026",
+  "publishedAt": "2026-09-14T00:00:00.000Z",
+  "weekLabel": "September 14, 2026",
   "source": "manual",
   "productCount": 2,
-  "totalSavings": 1430.06,
+  "totalSavings": 632.06,
   "sections": [
     {
       "name": "Top Video Game Deal",
@@ -23,24 +23,24 @@
           "savingsAmount": 30.06,
           "savingsPercent": 60,
           "rating": 4.8,
-          "reviewCount": 1868,
+          "reviewCount": 1873,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
             "Verified discount signal: about 60% off list price.",
-            "Shopper confidence signal: 4.8 stars and 1,868 reviews.",
+            "Shopper confidence signal: 4.8 stars and 1,873 reviews.",
             "Specs highlight: PlayStation 5."
           ],
-          "manualSummary": "Sonic X Shadow Generations - PlayStation 5 is currently listed at $19.93 with about 60% off versus list price. It has 4.8 stars across 1,868 reviews. Key specs: PlayStation 5.",
+          "manualSummary": "Sonic X Shadow Generations - PlayStation 5 is currently listed at $19.93 with about 60% off versus list price. It has 4.8 stars across 1,873 reviews. Key specs: PlayStation 5.",
           "sourceTag": "manual",
-          "score": 165.98,
+          "score": 166.01,
           "reasons": [
             "60% discount signal",
-            "4.8 stars from 1,868 reviews"
+            "4.8 stars from 1,873 reviews"
           ],
-          "readableSummary": "Sonic X Shadow Generations - PlayStation 5 is currently listed at $19.93 with about 60% off versus list price. It has 4.8 stars across 1,868 reviews. Key specs: PlayStation 5."
+          "readableSummary": "Sonic X Shadow Generations - PlayStation 5 is currently listed at $19.93 with about 60% off versus list price. It has 4.8 stars across 1,873 reviews. Key specs: PlayStation 5."
         }
       ]
     },
@@ -49,33 +49,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0GPY2T4L2",
-          "title": "Samsung 77-Inch Class S90H Series, OLED, 4K, Smart TV, 2026 Model | Samsung Vision AI, Glare Free with Real Black & Real Color, OLED HDR+, NQ4 AI Gen3 Processor, Alexa Built-in",
-          "detailPageUrl": "https://www.amazon.com/dp/B0GPY2T4L2?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81hYTMYzlrL._AC_UY218_.jpg",
-          "priceAmount": 2297.99,
-          "priceDisplay": "$2297.99",
-          "savingsAmount": 1400,
-          "savingsPercent": 38,
-          "rating": 4.4,
-          "reviewCount": 102,
+          "asin": "B0GT4Q3LCV",
+          "title": "Hisense 75\" U6 Pro Series Mini LED ULED 4K UHD HDR Gaming AI Smart Fire TV (75U6SF Pro, 2026 New) - Hi-QLED, Native 144Hz, Motion Rate 480, Dolby Vision IQ Atmos, HDR10+, Glare-Free, Alexa+",
+          "detailPageUrl": "https://www.amazon.com/dp/B0GT4Q3LCV?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81BvDpVJFDL._AC_UY218_.jpg",
+          "priceAmount": 797.99,
+          "priceDisplay": "$797.99",
+          "savingsAmount": 602,
+          "savingsPercent": 43,
+          "rating": 4.3,
+          "reviewCount": 287,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 38% off list price.",
-            "Shopper confidence signal: 4.4 stars and 102 reviews.",
-            "Specs highlight: 77-Inch, OLED, 4K."
+            "Verified discount signal: about 43% off list price.",
+            "Shopper confidence signal: 4.3 stars and 287 reviews.",
+            "Specs highlight: 4K, QLED, 144Hz, Dolby Vision."
           ],
-          "manualSummary": "Samsung 77-Inch Class S90H Series, OLED, 4K, Smart TV, 2026 Model | Samsung Vision AI, Glare Free with Real Black & Real Color, OLED HDR+, NQ4 AI Gen3 Processor, Alexa Built-in is currently listed at $2297.99 with about 38% off versus list price. It has 4.4 stars across 102 reviews. Key specs: 77-Inch, OLED, 4K.",
+          "manualSummary": "Hisense 75\" U6 Pro Series Mini LED ULED 4K UHD HDR Gaming AI Smart Fire TV (75U6SF Pro, 2026 New) - Hi-QLED, Native 144Hz, Motion Rate 480, Dolby Vision IQ Atmos, HDR10+, Glare-Free, Alexa+ is currently listed at $797.99 with about 43% off versus list price. It has 4.3 stars across 287 reviews. Key specs: 4K, QLED, 144Hz, Dolby Vision.",
           "sourceTag": "manual",
-          "score": 118.17,
+          "score": 126.49,
           "reasons": [
-            "38% discount signal",
-            "4.4 stars from 102 reviews"
+            "43% discount signal",
+            "4.3 stars from 287 reviews"
           ],
-          "readableSummary": "Samsung 77-Inch Class S90H Series, OLED, 4K, Smart TV, 2026 Model | Samsung Vision AI, Glare Free with Real Black & Real Color, OLED HDR+, NQ4 AI Gen3 Processor, Alexa Built-in is currently listed at $2297.99 with about 38% off versus list price. It has 4.4 stars across 102 reviews. Key specs: 77-Inch, OLED, 4K."
+          "readableSummary": "Hisense 75\" U6 Pro Series Mini LED ULED 4K UHD HDR Gaming AI Smart Fire TV (75U6SF Pro, 2026 New) - Hi-QLED, Native 144Hz, Motion Rate 480, Dolby Vision IQ Atmos, HDR10+, Glare-Free, Alexa+ is currently listed at $797.99 with about 43% off versus list price. It has 4.3 stars across 287 reviews. Key specs: 4K, QLED, 144Hz, Dolby Vision."
         }
       ]
     }

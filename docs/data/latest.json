@@ -1,46 +1,46 @@
 {
-  "id": "b998899cb0",
-  "slug": "2026-09-28-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (September 28, 2026) - Top Products Worth Watching",
+  "id": "d986571a83",
+  "slug": "2026-10-05-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (October 5, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-09-28T00:00:00.000Z",
-  "weekLabel": "September 28, 2026",
+  "publishedAt": "2026-10-05T00:00:00.000Z",
+  "weekLabel": "October 5, 2026",
   "source": "manual",
   "productCount": 2,
-  "totalSavings": 556.01,
+  "totalSavings": 750.01,
   "sections": [
     {
-      "name": "Top Video Game Deal",
-      "intro": "One standout game pick with strong reviews and a meaningful discount.",
+      "name": "High-Spec Laptop Deal",
+      "intro": "One premium laptop with strong specs, high ratings, and discount value.",
       "products": [
         {
-          "asin": "B0FH5GW64H",
-          "title": "NBA 2K26 - PlayStation 5",
-          "detailPageUrl": "https://www.amazon.com/dp/B0FH5GW64H?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81TbR0FGhbL._AC_UY218_.jpg",
-          "priceAmount": 13.99,
-          "priceDisplay": "$13.99",
-          "savingsAmount": 6,
-          "savingsPercent": 30,
-          "rating": 4.8,
-          "reviewCount": 2334,
+          "asin": "B0897JY4NQ",
+          "title": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro",
+          "detailPageUrl": "https://www.amazon.com/dp/B0897JY4NQ?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71APhts9w4L._AC_UY218_.jpg",
+          "priceAmount": 749.99,
+          "priceDisplay": "$749.99",
+          "savingsAmount": 100,
+          "savingsPercent": 12,
+          "rating": 4.2,
+          "reviewCount": 227,
           "salesRank": 0,
           "isDeal": true,
-          "category": "Top Video Game Deal",
-          "keyword": "video game deal",
+          "category": "High-Spec Laptop Deal",
+          "keyword": "high spec laptop deal",
           "featureBullets": [
-            "Verified discount signal: about 30% off list price.",
-            "Shopper confidence signal: 4.8 stars and 2,334 reviews.",
-            "Specs highlight: PlayStation 5."
+            "Verified discount signal: about 12% off list price.",
+            "Shopper confidence signal: 4.2 stars and 227 reviews.",
+            "Specs highlight: Ryzen 7 170, 16GB, 512GB."
           ],
-          "manualSummary": "NBA 2K26 - PlayStation 5 is currently listed at $13.99 with about 30% off versus list price. It has 4.8 stars across 2,334 reviews. Key specs: PlayStation 5.",
+          "manualSummary": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro is currently listed at $749.99 with about 12% off versus list price. It has 4.2 stars across 227 reviews. Key specs: Ryzen 7 170, 16GB, 512GB.",
           "sourceTag": "manual",
-          "score": 120.57,
+          "score": 75.86,
           "reasons": [
-            "30% discount signal",
-            "4.8 stars from 2,334 reviews"
+            "12% discount signal",
+            "4.2 stars from 227 reviews"
           ],
-          "readableSummary": "NBA 2K26 - PlayStation 5 is currently listed at $13.99 with about 30% off versus list price. It has 4.8 stars across 2,334 reviews. Key specs: PlayStation 5."
+          "readableSummary": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro is currently listed at $749.99 with about 12% off versus list price. It has 4.2 stars across 227 reviews. Key specs: Ryzen 7 170, 16GB, 512GB."
         }
       ]
     },
@@ -50,32 +50,32 @@
       "products": [
         {
           "asin": "B0GR9NQZQQ",
-          "title": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming HDR Google Smart TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch",
+          "title": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming HDR Smart Google TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch",
           "detailPageUrl": "https://www.amazon.com/dp/B0GR9NQZQQ?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/718nAYaCKmL._AC_UY218_.jpg",
-          "priceAmount": 747.99,
-          "priceDisplay": "$747.99",
-          "savingsAmount": 550.01,
-          "savingsPercent": 42,
-          "rating": 4.4,
-          "reviewCount": 260,
+          "imageUrl": "https://m.media-amazon.com/images/I/71vghRsTPpL._AC_UY218_.jpg",
+          "priceAmount": 647.99,
+          "priceDisplay": "$647.99",
+          "savingsAmount": 650.01,
+          "savingsPercent": 50,
+          "rating": 4.5,
+          "reviewCount": 390,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 42% off list price.",
-            "Shopper confidence signal: 4.4 stars and 260 reviews.",
+            "Verified discount signal: about 50% off list price.",
+            "Shopper confidence signal: 4.5 stars and 390 reviews.",
             "Specs highlight: Mini-LED, 4K, QLED, HDR10+."
           ],
-          "manualSummary": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming HDR Google Smart TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch is currently listed at $747.99 with about 42% off versus list price. It has 4.4 stars across 260 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+.",
+          "manualSummary": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming HDR Smart Google TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch is currently listed at $647.99 with about 50% off versus list price. It has 4.5 stars across 390 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+.",
           "sourceTag": "manual",
-          "score": 125.44,
+          "score": 139.67,
           "reasons": [
-            "42% discount signal",
-            "4.4 stars from 260 reviews"
+            "50% discount signal",
+            "4.5 stars from 390 reviews"
           ],
-          "readableSummary": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming HDR Google Smart TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch is currently listed at $747.99 with about 42% off versus list price. It has 4.4 stars across 260 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+."
+          "readableSummary": "Hisense 55\" U7 Mini-LED ULED 4K UHD Best Premium Gaming HDR Smart Google TV (55U7SG, 2026 NEW) - Hi-QLED, Native 165Hz, VRR 330, HDR10+, Dolby Vision IQ Atmos, IMAX Enhanced, Anti-Reflection, 2.1.2 Ch is currently listed at $647.99 with about 50% off versus list price. It has 4.5 stars across 390 reviews. Key specs: Mini-LED, 4K, QLED, HDR10+."
         }
       ]
     }

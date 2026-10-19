@@ -1,46 +1,46 @@
 {
-  "id": "41ba2355a9",
-  "slug": "2026-10-12-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (October 12, 2026) - Top Products Worth Watching",
+  "id": "01659251b5",
+  "slug": "2026-10-19-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (October 19, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-10-12T00:00:00.000Z",
-  "weekLabel": "October 12, 2026",
+  "publishedAt": "2026-10-19T00:00:00.000Z",
+  "weekLabel": "October 19, 2026",
   "source": "manual",
   "productCount": 2,
-  "totalSavings": 306.2,
+  "totalSavings": 506.99,
   "sections": [
     {
       "name": "Top Video Game Deal",
       "intro": "One standout game pick with strong reviews and a meaningful discount.",
       "products": [
         {
-          "asin": "B0FH5D89JR",
-          "title": "NBA 2K26 - Xbox Series X",
-          "detailPageUrl": "https://www.amazon.com/dp/B0FH5D89JR?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/811Mnde97WL._AC_UY218_.jpg",
-          "priceAmount": 15.79,
-          "priceDisplay": "$15.79",
-          "savingsAmount": 4.2,
-          "savingsPercent": 21,
-          "rating": 4.7,
-          "reviewCount": 472,
+          "asin": "B0FH5GW64H",
+          "title": "NBA 2K26 - PlayStation 5",
+          "detailPageUrl": "https://www.amazon.com/dp/B0FH5GW64H?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81TbR0FGhbL._AC_UY218_.jpg",
+          "priceAmount": 15,
+          "priceDisplay": "$15.00",
+          "savingsAmount": 4.99,
+          "savingsPercent": 25,
+          "rating": 4.8,
+          "reviewCount": 2387,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 21% off list price.",
-            "Shopper confidence signal: 4.7 stars and 472 reviews.",
-            "Specs highlight: Xbox Series X."
+            "Verified discount signal: about 25% off list price.",
+            "Shopper confidence signal: 4.8 stars and 2,387 reviews.",
+            "Specs highlight: PlayStation 5."
           ],
-          "manualSummary": "NBA 2K26 - Xbox Series X is currently listed at $15.79 with about 21% off versus list price. It has 4.7 stars across 472 reviews. Key specs: Xbox Series X.",
+          "manualSummary": "NBA 2K26 - PlayStation 5 is currently listed at $15.00 with about 25% off versus list price. It has 4.8 stars across 2,387 reviews. Key specs: PlayStation 5.",
           "sourceTag": "manual",
-          "score": 95.12,
+          "score": 112.86,
           "reasons": [
-            "21% discount signal",
-            "4.7 stars from 472 reviews"
+            "25% discount signal",
+            "4.8 stars from 2,387 reviews"
           ],
-          "readableSummary": "NBA 2K26 - Xbox Series X is currently listed at $15.79 with about 21% off versus list price. It has 4.7 stars across 472 reviews. Key specs: Xbox Series X."
+          "readableSummary": "NBA 2K26 - PlayStation 5 is currently listed at $15.00 with about 25% off versus list price. It has 4.8 stars across 2,387 reviews. Key specs: PlayStation 5."
         }
       ]
     },
@@ -49,33 +49,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0GH74B9RQ",
-          "title": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+",
-          "detailPageUrl": "https://www.amazon.com/dp/B0GH74B9RQ?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81610tQPmAL._AC_UY218_.jpg",
-          "priceAmount": 447.99,
-          "priceDisplay": "$447.99",
-          "savingsAmount": 302,
-          "savingsPercent": 40,
-          "rating": 4.4,
-          "reviewCount": 402,
+          "asin": "B0GPS3SYT3",
+          "title": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L (2026)",
+          "detailPageUrl": "https://www.amazon.com/dp/B0GPS3SYT3?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81EHYAzuL2L._AC_UY218_.jpg",
+          "priceAmount": 697.99,
+          "priceDisplay": "$697.99",
+          "savingsAmount": 502,
+          "savingsPercent": 42,
+          "rating": 4.3,
+          "reviewCount": 116,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 40% off list price.",
-            "Shopper confidence signal: 4.4 stars and 402 reviews.",
-            "Specs highlight: QLED, Mini-LED, 4K, 144Hz."
+            "Verified discount signal: about 42% off list price.",
+            "Shopper confidence signal: 4.3 stars and 116 reviews.",
+            "Specs highlight: 55 Inch, QLED, 4K."
           ],
-          "manualSummary": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+ is currently listed at $447.99 with about 40% off versus list price. It has 4.4 stars across 402 reviews. Key specs: QLED, Mini-LED, 4K, 144Hz.",
+          "manualSummary": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L (2026) is currently listed at $697.99 with about 42% off versus list price. It has 4.3 stars across 116 reviews. Key specs: 55 Inch, QLED, 4K.",
           "sourceTag": "manual",
-          "score": 123.03,
+          "score": 123.94,
           "reasons": [
-            "40% discount signal",
-            "4.4 stars from 402 reviews"
+            "42% discount signal",
+            "4.3 stars from 116 reviews"
           ],
-          "readableSummary": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+ is currently listed at $447.99 with about 40% off versus list price. It has 4.4 stars across 402 reviews. Key specs: QLED, Mini-LED, 4K, 144Hz."
+          "readableSummary": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L (2026) is currently listed at $697.99 with about 42% off versus list price. It has 4.3 stars across 116 reviews. Key specs: 55 Inch, QLED, 4K."
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
-  "id": "01659251b5",
-  "slug": "2026-10-19-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (October 19, 2026) - Top Products Worth Watching",
+  "id": "ad54941d9d",
+  "slug": "2026-10-26-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (October 26, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-10-19T00:00:00.000Z",
-  "weekLabel": "October 19, 2026",
+  "publishedAt": "2026-10-26T00:00:00.000Z",
+  "weekLabel": "October 26, 2026",
   "source": "manual",
-  "productCount": 2,
-  "totalSavings": 506.99,
+  "productCount": 3,
+  "totalSavings": 506.21,
   "sections": [
     {
       "name": "Top Video Game Deal",
@@ -18,29 +18,64 @@
           "title": "NBA 2K26 - PlayStation 5",
           "detailPageUrl": "https://www.amazon.com/dp/B0FH5GW64H?tag=alyssasousa-20",
           "imageUrl": "https://m.media-amazon.com/images/I/81TbR0FGhbL._AC_UY218_.jpg",
-          "priceAmount": 15,
-          "priceDisplay": "$15.00",
-          "savingsAmount": 4.99,
-          "savingsPercent": 25,
+          "priceAmount": 15.79,
+          "priceDisplay": "$15.79",
+          "savingsAmount": 4.2,
+          "savingsPercent": 21,
           "rating": 4.8,
-          "reviewCount": 2387,
+          "reviewCount": 2398,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 25% off list price.",
-            "Shopper confidence signal: 4.8 stars and 2,387 reviews.",
+            "Verified discount signal: about 21% off list price.",
+            "Shopper confidence signal: 4.8 stars and 2,398 reviews.",
             "Specs highlight: PlayStation 5."
           ],
-          "manualSummary": "NBA 2K26 - PlayStation 5 is currently listed at $15.00 with about 25% off versus list price. It has 4.8 stars across 2,387 reviews. Key specs: PlayStation 5.",
+          "manualSummary": "NBA 2K26 - PlayStation 5 is currently listed at $15.79 with about 21% off versus list price. It has 4.8 stars across 2,398 reviews. Key specs: PlayStation 5.",
           "sourceTag": "manual",
-          "score": 112.86,
+          "score": 106.52,
           "reasons": [
-            "25% discount signal",
-            "4.8 stars from 2,387 reviews"
+            "21% discount signal",
+            "4.8 stars from 2,398 reviews"
           ],
-          "readableSummary": "NBA 2K26 - PlayStation 5 is currently listed at $15.00 with about 25% off versus list price. It has 4.8 stars across 2,387 reviews. Key specs: PlayStation 5."
+          "readableSummary": "NBA 2K26 - PlayStation 5 is currently listed at $15.79 with about 21% off versus list price. It has 4.8 stars across 2,398 reviews. Key specs: PlayStation 5."
+        }
+      ]
+    },
+    {
+      "name": "High-Spec Laptop Deal",
+      "intro": "One premium laptop with strong specs, high ratings, and discount value.",
+      "products": [
+        {
+          "asin": "B0897JY4NQ",
+          "title": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro",
+          "detailPageUrl": "https://www.amazon.com/dp/B0897JY4NQ?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71APhts9w4L._AC_UY218_.jpg",
+          "priceAmount": 749.98,
+          "priceDisplay": "$749.98",
+          "savingsAmount": 100.01,
+          "savingsPercent": 12,
+          "rating": 4.3,
+          "reviewCount": 185,
+          "salesRank": 0,
+          "isDeal": true,
+          "category": "High-Spec Laptop Deal",
+          "keyword": "high spec laptop deal",
+          "featureBullets": [
+            "Verified discount signal: about 12% off list price.",
+            "Shopper confidence signal: 4.3 stars and 185 reviews.",
+            "Specs highlight: Ryzen 7 170, 16GB, 512GB."
+          ],
+          "manualSummary": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro is currently listed at $749.98 with about 12% off versus list price. It has 4.3 stars across 185 reviews. Key specs: Ryzen 7 170, 16GB, 512GB.",
+          "sourceTag": "manual",
+          "score": 76.33,
+          "reasons": [
+            "12% discount signal",
+            "4.3 stars from 185 reviews"
+          ],
+          "readableSummary": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro is currently listed at $749.98 with about 12% off versus list price. It has 4.3 stars across 185 reviews. Key specs: Ryzen 7 170, 16GB, 512GB."
         }
       ]
     },
@@ -50,32 +85,32 @@
       "products": [
         {
           "asin": "B0GPS3SYT3",
-          "title": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L (2026)",
+          "title": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L, 144Hz",
           "detailPageUrl": "https://www.amazon.com/dp/B0GPS3SYT3?tag=alyssasousa-20",
           "imageUrl": "https://m.media-amazon.com/images/I/81EHYAzuL2L._AC_UY218_.jpg",
-          "priceAmount": 697.99,
-          "priceDisplay": "$697.99",
-          "savingsAmount": 502,
-          "savingsPercent": 42,
+          "priceAmount": 797.99,
+          "priceDisplay": "$797.99",
+          "savingsAmount": 402,
+          "savingsPercent": 34,
           "rating": 4.3,
-          "reviewCount": 116,
+          "reviewCount": 125,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 42% off list price.",
-            "Shopper confidence signal: 4.3 stars and 116 reviews.",
-            "Specs highlight: 55 Inch, QLED, 4K."
+            "Verified discount signal: about 34% off list price.",
+            "Shopper confidence signal: 4.3 stars and 125 reviews.",
+            "Specs highlight: 55 Inch, QLED, 4K, 144Hz."
           ],
-          "manualSummary": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L (2026) is currently listed at $697.99 with about 42% off versus list price. It has 4.3 stars across 116 reviews. Key specs: 55 Inch, QLED, 4K.",
+          "manualSummary": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L, 144Hz is currently listed at $797.99 with about 34% off versus list price. It has 4.3 stars across 125 reviews. Key specs: 55 Inch, QLED, 4K, 144Hz.",
           "sourceTag": "manual",
-          "score": 123.94,
+          "score": 111.19,
           "reasons": [
-            "42% discount signal",
-            "4.3 stars from 116 reviews"
+            "34% discount signal",
+            "4.3 stars from 125 reviews"
           ],
-          "readableSummary": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L (2026) is currently listed at $697.99 with about 42% off versus list price. It has 4.3 stars across 116 reviews. Key specs: 55 Inch, QLED, 4K."
+          "readableSummary": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L, 144Hz is currently listed at $797.99 with about 34% off versus list price. It has 4.3 stars across 125 reviews. Key specs: 55 Inch, QLED, 4K, 144Hz."
         }
       ]
     }

@@ -1,46 +1,46 @@
 {
-  "id": "ad54941d9d",
-  "slug": "2026-10-26-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (October 26, 2026) - Top Products Worth Watching",
+  "id": "c4a642a8d4",
+  "slug": "2026-11-02-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (November 2, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-10-26T00:00:00.000Z",
-  "weekLabel": "October 26, 2026",
+  "publishedAt": "2026-11-02T00:00:00.000Z",
+  "weekLabel": "November 2, 2026",
   "source": "manual",
   "productCount": 3,
-  "totalSavings": 506.21,
+  "totalSavings": 1422.06,
   "sections": [
     {
       "name": "Top Video Game Deal",
       "intro": "One standout game pick with strong reviews and a meaningful discount.",
       "products": [
         {
-          "asin": "B0FH5GW64H",
-          "title": "NBA 2K26 - PlayStation 5",
-          "detailPageUrl": "https://www.amazon.com/dp/B0FH5GW64H?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81TbR0FGhbL._AC_UY218_.jpg",
-          "priceAmount": 15.79,
-          "priceDisplay": "$15.79",
-          "savingsAmount": 4.2,
-          "savingsPercent": 21,
+          "asin": "B0H9Z71PJK",
+          "title": "NBA 2K27 - PlayStation 5",
+          "detailPageUrl": "https://www.amazon.com/dp/B0H9Z71PJK?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81uApUmA8RL._AC_UY218_.jpg",
+          "priceAmount": 49.95,
+          "priceDisplay": "$49.95",
+          "savingsAmount": 20.04,
+          "savingsPercent": 29,
           "rating": 4.8,
-          "reviewCount": 2398,
+          "reviewCount": 149,
           "salesRank": 0,
           "isDeal": true,
           "category": "Top Video Game Deal",
           "keyword": "video game deal",
           "featureBullets": [
-            "Verified discount signal: about 21% off list price.",
-            "Shopper confidence signal: 4.8 stars and 2,398 reviews.",
+            "Verified discount signal: about 29% off list price.",
+            "Shopper confidence signal: 4.8 stars and 149 reviews.",
             "Specs highlight: PlayStation 5."
           ],
-          "manualSummary": "NBA 2K26 - PlayStation 5 is currently listed at $15.79 with about 21% off versus list price. It has 4.8 stars across 2,398 reviews. Key specs: PlayStation 5.",
+          "manualSummary": "NBA 2K27 - PlayStation 5 is currently listed at $49.95 with about 29% off versus list price. It has 4.8 stars across 149 reviews. Key specs: PlayStation 5.",
           "sourceTag": "manual",
-          "score": 106.52,
+          "score": 112.83,
           "reasons": [
-            "21% discount signal",
-            "4.8 stars from 2,398 reviews"
+            "29% discount signal",
+            "4.8 stars from 149 reviews"
           ],
-          "readableSummary": "NBA 2K26 - PlayStation 5 is currently listed at $15.79 with about 21% off versus list price. It has 4.8 stars across 2,398 reviews. Key specs: PlayStation 5."
+          "readableSummary": "NBA 2K27 - PlayStation 5 is currently listed at $49.95 with about 29% off versus list price. It has 4.8 stars across 149 reviews. Key specs: PlayStation 5."
         }
       ]
     },
@@ -49,33 +49,33 @@
       "intro": "One premium laptop with strong specs, high ratings, and discount value.",
       "products": [
         {
-          "asin": "B0897JY4NQ",
-          "title": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro",
-          "detailPageUrl": "https://www.amazon.com/dp/B0897JY4NQ?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/71APhts9w4L._AC_UY218_.jpg",
-          "priceAmount": 749.98,
-          "priceDisplay": "$749.98",
-          "savingsAmount": 100.01,
-          "savingsPercent": 12,
-          "rating": 4.3,
-          "reviewCount": 185,
+          "asin": "B0HB3NQNFM",
+          "title": "NIMO 17.3\" FHD Gaming Laptop, AMD Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB SSD Radeon 780M (8C/16T Beat i9-13900H Up to 5.2GHz) IPS 100W Fast PD Backlit-KB AI-Powered Copilot VR for Creators & STEM",
+          "detailPageUrl": "https://www.amazon.com/dp/B0HB3NQNFM?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Ak2n84meL._AC_UY218_.jpg",
+          "priceAmount": 1199.99,
+          "priceDisplay": "$1199.99",
+          "savingsAmount": 1100,
+          "savingsPercent": 48,
+          "rating": 4.4,
+          "reviewCount": 123,
           "salesRank": 0,
           "isDeal": true,
           "category": "High-Spec Laptop Deal",
           "keyword": "high spec laptop deal",
           "featureBullets": [
-            "Verified discount signal: about 12% off list price.",
-            "Shopper confidence signal: 4.3 stars and 185 reviews.",
-            "Specs highlight: Ryzen 7 170, 16GB, 512GB."
+            "Verified discount signal: about 48% off list price.",
+            "Shopper confidence signal: 4.4 stars and 123 reviews.",
+            "Specs highlight: Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB."
           ],
-          "manualSummary": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro is currently listed at $749.98 with about 12% off versus list price. It has 4.3 stars across 185 reviews. Key specs: Ryzen 7 170, 16GB, 512GB.",
+          "manualSummary": "NIMO 17.3\" FHD Gaming Laptop, AMD Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB SSD Radeon 780M (8C/16T Beat i9-13900H Up to 5.2GHz) IPS 100W Fast PD Backlit-KB AI-Powered Copilot VR for Creators & STEM is currently listed at $1199.99 with about 48% off versus list price. It has 4.4 stars across 123 reviews. Key specs: Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB.",
           "sourceTag": "manual",
-          "score": 76.33,
+          "score": 134.28,
           "reasons": [
-            "12% discount signal",
-            "4.3 stars from 185 reviews"
+            "48% discount signal",
+            "4.4 stars from 123 reviews"
           ],
-          "readableSummary": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro is currently listed at $749.98 with about 12% off versus list price. It has 4.3 stars across 185 reviews. Key specs: Ryzen 7 170, 16GB, 512GB."
+          "readableSummary": "NIMO 17.3\" FHD Gaming Laptop, AMD Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB SSD Radeon 780M (8C/16T Beat i9-13900H Up to 5.2GHz) IPS 100W Fast PD Backlit-KB AI-Powered Copilot VR for Creators & STEM is currently listed at $1199.99 with about 48% off versus list price. It has 4.4 stars across 123 reviews. Key specs: Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB."
         }
       ]
     },
@@ -84,33 +84,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0GPS3SYT3",
-          "title": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L, 144Hz",
-          "detailPageUrl": "https://www.amazon.com/dp/B0GPS3SYT3?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81EHYAzuL2L._AC_UY218_.jpg",
-          "priceAmount": 797.99,
-          "priceDisplay": "$797.99",
-          "savingsAmount": 402,
-          "savingsPercent": 34,
+          "asin": "B0GH74B9RQ",
+          "title": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+",
+          "detailPageUrl": "https://www.amazon.com/dp/B0GH74B9RQ?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81610tQPmAL._AC_UY218_.jpg",
+          "priceAmount": 447.97,
+          "priceDisplay": "$447.97",
+          "savingsAmount": 302.02,
+          "savingsPercent": 40,
           "rating": 4.3,
-          "reviewCount": 125,
+          "reviewCount": 463,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 34% off list price.",
-            "Shopper confidence signal: 4.3 stars and 125 reviews.",
-            "Specs highlight: 55 Inch, QLED, 4K, 144Hz."
+            "Verified discount signal: about 40% off list price.",
+            "Shopper confidence signal: 4.3 stars and 463 reviews.",
+            "Specs highlight: QLED, Mini-LED, 4K, 144Hz."
           ],
-          "manualSummary": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L, 144Hz is currently listed at $797.99 with about 34% off versus list price. It has 4.3 stars across 125 reviews. Key specs: 55 Inch, QLED, 4K, 144Hz.",
+          "manualSummary": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+ is currently listed at $447.97 with about 40% off versus list price. It has 4.3 stars across 463 reviews. Key specs: QLED, Mini-LED, 4K, 144Hz.",
           "sourceTag": "manual",
-          "score": 111.19,
+          "score": 122.67,
           "reasons": [
-            "34% discount signal",
-            "4.3 stars from 125 reviews"
+            "40% discount signal",
+            "4.3 stars from 463 reviews"
           ],
-          "readableSummary": "TCL 55 Inch QM7L Series SQD-Mini LED QLED 4K Smart Google TV 55QM7L, 144Hz is currently listed at $797.99 with about 34% off versus list price. It has 4.3 stars across 125 reviews. Key specs: 55 Inch, QLED, 4K, 144Hz."
+          "readableSummary": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+ is currently listed at $447.97 with about 40% off versus list price. It has 4.3 stars across 463 reviews. Key specs: QLED, Mini-LED, 4K, 144Hz."
         }
       ]
     }

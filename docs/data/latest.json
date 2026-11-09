@@ -1,81 +1,46 @@
 {
-  "id": "c4a642a8d4",
-  "slug": "2026-11-02-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (November 2, 2026) - Top Products Worth Watching",
+  "id": "6313da60c9",
+  "slug": "2026-11-09-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (November 9, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-11-02T00:00:00.000Z",
-  "weekLabel": "November 2, 2026",
+  "publishedAt": "2026-11-09T00:00:00.000Z",
+  "weekLabel": "November 9, 2026",
   "source": "manual",
-  "productCount": 3,
-  "totalSavings": 1422.06,
+  "productCount": 2,
+  "totalSavings": 2802.01,
   "sections": [
-    {
-      "name": "Top Video Game Deal",
-      "intro": "One standout game pick with strong reviews and a meaningful discount.",
-      "products": [
-        {
-          "asin": "B0H9Z71PJK",
-          "title": "NBA 2K27 - PlayStation 5",
-          "detailPageUrl": "https://www.amazon.com/dp/B0H9Z71PJK?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81uApUmA8RL._AC_UY218_.jpg",
-          "priceAmount": 49.95,
-          "priceDisplay": "$49.95",
-          "savingsAmount": 20.04,
-          "savingsPercent": 29,
-          "rating": 4.8,
-          "reviewCount": 149,
-          "salesRank": 0,
-          "isDeal": true,
-          "category": "Top Video Game Deal",
-          "keyword": "video game deal",
-          "featureBullets": [
-            "Verified discount signal: about 29% off list price.",
-            "Shopper confidence signal: 4.8 stars and 149 reviews.",
-            "Specs highlight: PlayStation 5."
-          ],
-          "manualSummary": "NBA 2K27 - PlayStation 5 is currently listed at $49.95 with about 29% off versus list price. It has 4.8 stars across 149 reviews. Key specs: PlayStation 5.",
-          "sourceTag": "manual",
-          "score": 112.83,
-          "reasons": [
-            "29% discount signal",
-            "4.8 stars from 149 reviews"
-          ],
-          "readableSummary": "NBA 2K27 - PlayStation 5 is currently listed at $49.95 with about 29% off versus list price. It has 4.8 stars across 149 reviews. Key specs: PlayStation 5."
-        }
-      ]
-    },
     {
       "name": "High-Spec Laptop Deal",
       "intro": "One premium laptop with strong specs, high ratings, and discount value.",
       "products": [
         {
-          "asin": "B0HB3NQNFM",
-          "title": "NIMO 17.3\" FHD Gaming Laptop, AMD Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB SSD Radeon 780M (8C/16T Beat i9-13900H Up to 5.2GHz) IPS 100W Fast PD Backlit-KB AI-Powered Copilot VR for Creators & STEM",
-          "detailPageUrl": "https://www.amazon.com/dp/B0HB3NQNFM?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Ak2n84meL._AC_UY218_.jpg",
-          "priceAmount": 1199.99,
-          "priceDisplay": "$1199.99",
-          "savingsAmount": 1100,
-          "savingsPercent": 48,
-          "rating": 4.4,
-          "reviewCount": 123,
+          "asin": "B0H6Q41R5P",
+          "title": "NIMO 15.6\" FHD AI-Creator-Laptop, AMD R7 8745HS 8 Cores, 16GB DDR5 5600MHz 1TB SSD (Beat i7-1360P up to 4.9GHz) Radeon 780M, Backlit-KB 100W Fast PD for Video Editing, Light Gaming & Remote Streaming",
+          "detailPageUrl": "https://www.amazon.com/dp/B0H6Q41R5P?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/7138inCdumL._AC_UY218_.jpg",
+          "priceAmount": 899.98,
+          "priceDisplay": "$899.98",
+          "savingsAmount": 1300.01,
+          "savingsPercent": 59,
+          "rating": 4.5,
+          "reviewCount": 248,
           "salesRank": 0,
           "isDeal": true,
           "category": "High-Spec Laptop Deal",
           "keyword": "high spec laptop deal",
           "featureBullets": [
-            "Verified discount signal: about 48% off list price.",
-            "Shopper confidence signal: 4.4 stars and 123 reviews.",
-            "Specs highlight: Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB."
+            "Verified discount signal: about 59% off list price.",
+            "Shopper confidence signal: 4.5 stars and 248 reviews.",
+            "Specs highlight: 16GB, DDR5, 1TB."
           ],
-          "manualSummary": "NIMO 17.3\" FHD Gaming Laptop, AMD Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB SSD Radeon 780M (8C/16T Beat i9-13900H Up to 5.2GHz) IPS 100W Fast PD Backlit-KB AI-Powered Copilot VR for Creators & STEM is currently listed at $1199.99 with about 48% off versus list price. It has 4.4 stars across 123 reviews. Key specs: Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB.",
+          "manualSummary": "NIMO 15.6\" FHD AI-Creator-Laptop, AMD R7 8745HS 8 Cores, 16GB DDR5 5600MHz 1TB SSD (Beat i7-1360P up to 4.9GHz) Radeon 780M, Backlit-KB 100W Fast PD for Video Editing, Light Gaming & Remote Streaming is currently listed at $899.98 with about 59% off versus list price. It has 4.5 stars across 248 reviews. Key specs: 16GB, DDR5, 1TB.",
           "sourceTag": "manual",
-          "score": 134.28,
+          "score": 153.28,
           "reasons": [
-            "48% discount signal",
-            "4.4 stars from 123 reviews"
+            "59% discount signal",
+            "4.5 stars from 248 reviews"
           ],
-          "readableSummary": "NIMO 17.3\" FHD Gaming Laptop, AMD Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB SSD Radeon 780M (8C/16T Beat i9-13900H Up to 5.2GHz) IPS 100W Fast PD Backlit-KB AI-Powered Copilot VR for Creators & STEM is currently listed at $1199.99 with about 48% off versus list price. It has 4.4 stars across 123 reviews. Key specs: Ryzen 9 8945hs 32GB DDR5 5600MHz RAM, 1TB."
+          "readableSummary": "NIMO 15.6\" FHD AI-Creator-Laptop, AMD R7 8745HS 8 Cores, 16GB DDR5 5600MHz 1TB SSD (Beat i7-1360P up to 4.9GHz) Radeon 780M, Backlit-KB 100W Fast PD for Video Editing, Light Gaming & Remote Streaming is currently listed at $899.98 with about 59% off versus list price. It has 4.5 stars across 248 reviews. Key specs: 16GB, DDR5, 1TB."
         }
       ]
     },
@@ -84,33 +49,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0GH74B9RQ",
-          "title": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+",
-          "detailPageUrl": "https://www.amazon.com/dp/B0GH74B9RQ?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81610tQPmAL._AC_UY218_.jpg",
-          "priceAmount": 447.97,
-          "priceDisplay": "$447.97",
-          "savingsAmount": 302.02,
-          "savingsPercent": 40,
+          "asin": "B0GPSYT2KN",
+          "title": "TCL 65 Inch QM8L Series SQD-Mini LED QLED 4K Smart Google TV 65QM8L, 144Hz",
+          "detailPageUrl": "https://www.amazon.com/dp/B0GPSYT2KN?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LJcS4Al8L._AC_UY218_.jpg",
+          "priceAmount": 997.99,
+          "priceDisplay": "$997.99",
+          "savingsAmount": 1502,
+          "savingsPercent": 60,
           "rating": 4.3,
-          "reviewCount": 463,
+          "reviewCount": 160,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 40% off list price.",
-            "Shopper confidence signal: 4.3 stars and 463 reviews.",
-            "Specs highlight: QLED, Mini-LED, 4K, 144Hz."
+            "Verified discount signal: about 60% off list price.",
+            "Shopper confidence signal: 4.3 stars and 160 reviews.",
+            "Specs highlight: 65 Inch, QLED, 4K, 144Hz."
           ],
-          "manualSummary": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+ is currently listed at $447.97 with about 40% off versus list price. It has 4.3 stars across 463 reviews. Key specs: QLED, Mini-LED, 4K, 144Hz.",
+          "manualSummary": "TCL 65 Inch QM8L Series SQD-Mini LED QLED 4K Smart Google TV 65QM8L, 144Hz is currently listed at $997.99 with about 60% off versus list price. It has 4.3 stars across 160 reviews. Key specs: 65 Inch, QLED, 4K, 144Hz.",
           "sourceTag": "manual",
-          "score": 122.67,
+          "score": 152.99,
           "reasons": [
-            "40% discount signal",
-            "4.3 stars from 463 reviews"
+            "60% discount signal",
+            "4.3 stars from 160 reviews"
           ],
-          "readableSummary": "Hisense 55\" E7 Cinema Series Hi-QLED Mini-LED 4K UHD Smart Fire TV (55E7SF, 2026 NEW) - Native 144Hz, AI Picture, Dolby Vision IQ Atmos, FALD, HDR10+ Adaptive, MEMC, Alexa+ is currently listed at $447.97 with about 40% off versus list price. It has 4.3 stars across 463 reviews. Key specs: QLED, Mini-LED, 4K, 144Hz."
+          "readableSummary": "TCL 65 Inch QM8L Series SQD-Mini LED QLED 4K Smart Google TV 65QM8L, 144Hz is currently listed at $997.99 with about 60% off versus list price. It has 4.3 stars across 160 reviews. Key specs: 65 Inch, QLED, 4K, 144Hz."
         }
       ]
     }

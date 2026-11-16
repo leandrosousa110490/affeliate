@@ -1,46 +1,81 @@
 {
-  "id": "6313da60c9",
-  "slug": "2026-11-09-amazon-weekly-finds",
-  "title": "Best Amazon Weekly Deals (November 9, 2026) - Top Products Worth Watching",
+  "id": "be9458199c",
+  "slug": "2026-11-16-amazon-weekly-finds",
+  "title": "Best Amazon Weekly Deals (November 16, 2026) - Top Products Worth Watching",
   "description": "Fresh weekly Amazon picks selected from high-demand categories using discount, review, and rank signals. Updated every week.",
-  "publishedAt": "2026-11-09T00:00:00.000Z",
-  "weekLabel": "November 9, 2026",
+  "publishedAt": "2026-11-16T00:00:00.000Z",
+  "weekLabel": "November 16, 2026",
   "source": "manual",
-  "productCount": 2,
-  "totalSavings": 2802.01,
+  "productCount": 3,
+  "totalSavings": 674.4,
   "sections": [
+    {
+      "name": "Top Video Game Deal",
+      "intro": "One standout game pick with strong reviews and a meaningful discount.",
+      "products": [
+        {
+          "asin": "B0FH5D89JR",
+          "title": "NBA 2K26 - Xbox Series X",
+          "detailPageUrl": "https://www.amazon.com/dp/B0FH5D89JR?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/811Mnde97WL._AC_UY218_.jpg",
+          "priceAmount": 15.6,
+          "priceDisplay": "$15.60",
+          "savingsAmount": 4.39,
+          "savingsPercent": 22,
+          "rating": 4.7,
+          "reviewCount": 485,
+          "salesRank": 0,
+          "isDeal": true,
+          "category": "Top Video Game Deal",
+          "keyword": "video game deal",
+          "featureBullets": [
+            "Verified discount signal: about 22% off list price.",
+            "Shopper confidence signal: 4.7 stars and 485 reviews.",
+            "Specs highlight: Xbox Series X."
+          ],
+          "manualSummary": "NBA 2K26 - Xbox Series X is currently listed at $15.60 with about 22% off versus list price. It has 4.7 stars across 485 reviews. Key specs: Xbox Series X.",
+          "sourceTag": "manual",
+          "score": 96.79,
+          "reasons": [
+            "22% discount signal",
+            "4.7 stars from 485 reviews"
+          ],
+          "readableSummary": "NBA 2K26 - Xbox Series X is currently listed at $15.60 with about 22% off versus list price. It has 4.7 stars across 485 reviews. Key specs: Xbox Series X."
+        }
+      ]
+    },
     {
       "name": "High-Spec Laptop Deal",
       "intro": "One premium laptop with strong specs, high ratings, and discount value.",
       "products": [
         {
-          "asin": "B0H6Q41R5P",
-          "title": "NIMO 15.6\" FHD AI-Creator-Laptop, AMD R7 8745HS 8 Cores, 16GB DDR5 5600MHz 1TB SSD (Beat i7-1360P up to 4.9GHz) Radeon 780M, Backlit-KB 100W Fast PD for Video Editing, Light Gaming & Remote Streaming",
-          "detailPageUrl": "https://www.amazon.com/dp/B0H6Q41R5P?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/7138inCdumL._AC_UY218_.jpg",
-          "priceAmount": 899.98,
-          "priceDisplay": "$899.98",
-          "savingsAmount": 1300.01,
-          "savingsPercent": 59,
-          "rating": 4.5,
-          "reviewCount": 248,
+          "asin": "B0897JY4NQ",
+          "title": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro",
+          "detailPageUrl": "https://www.amazon.com/dp/B0897JY4NQ?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/71APhts9w4L._AC_UY218_.jpg",
+          "priceAmount": 749.98,
+          "priceDisplay": "$749.98",
+          "savingsAmount": 100.01,
+          "savingsPercent": 12,
+          "rating": 4.2,
+          "reviewCount": 186,
           "salesRank": 0,
           "isDeal": true,
           "category": "High-Spec Laptop Deal",
           "keyword": "high spec laptop deal",
           "featureBullets": [
-            "Verified discount signal: about 59% off list price.",
-            "Shopper confidence signal: 4.5 stars and 248 reviews.",
-            "Specs highlight: 16GB, DDR5, 1TB."
+            "Verified discount signal: about 12% off list price.",
+            "Shopper confidence signal: 4.2 stars and 186 reviews.",
+            "Specs highlight: Ryzen 7 170, 16GB, 512GB."
           ],
-          "manualSummary": "NIMO 15.6\" FHD AI-Creator-Laptop, AMD R7 8745HS 8 Cores, 16GB DDR5 5600MHz 1TB SSD (Beat i7-1360P up to 4.9GHz) Radeon 780M, Backlit-KB 100W Fast PD for Video Editing, Light Gaming & Remote Streaming is currently listed at $899.98 with about 59% off versus list price. It has 4.5 stars across 248 reviews. Key specs: 16GB, DDR5, 1TB.",
+          "manualSummary": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro is currently listed at $749.98 with about 12% off versus list price. It has 4.2 stars across 186 reviews. Key specs: Ryzen 7 170, 16GB, 512GB.",
           "sourceTag": "manual",
-          "score": 153.28,
+          "score": 75.63,
           "reasons": [
-            "59% discount signal",
-            "4.5 stars from 248 reviews"
+            "12% discount signal",
+            "4.2 stars from 186 reviews"
           ],
-          "readableSummary": "NIMO 15.6\" FHD AI-Creator-Laptop, AMD R7 8745HS 8 Cores, 16GB DDR5 5600MHz 1TB SSD (Beat i7-1360P up to 4.9GHz) Radeon 780M, Backlit-KB 100W Fast PD for Video Editing, Light Gaming & Remote Streaming is currently listed at $899.98 with about 59% off versus list price. It has 4.5 stars across 248 reviews. Key specs: 16GB, DDR5, 1TB."
+          "readableSummary": "Lenovo Laptop V15 G6, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, Windows 11 Pro is currently listed at $749.98 with about 12% off versus list price. It has 4.2 stars across 186 reviews. Key specs: Ryzen 7 170, 16GB, 512GB."
         }
       ]
     },
@@ -49,33 +84,33 @@
       "intro": "One high-quality TV with modern display specs and a solid discount.",
       "products": [
         {
-          "asin": "B0GPSYT2KN",
-          "title": "TCL 65 Inch QM8L Series SQD-Mini LED QLED 4K Smart Google TV 65QM8L, 144Hz",
-          "detailPageUrl": "https://www.amazon.com/dp/B0GPSYT2KN?tag=alyssasousa-20",
-          "imageUrl": "https://m.media-amazon.com/images/I/81LJcS4Al8L._AC_UY218_.jpg",
-          "priceAmount": 997.99,
-          "priceDisplay": "$997.99",
-          "savingsAmount": 1502,
-          "savingsPercent": 60,
-          "rating": 4.3,
-          "reviewCount": 160,
+          "asin": "B0GT8GLWZH",
+          "title": "Hisense 65\" U6 Pro Series Mini LED ULED 4K UHD HDR Gaming AI Smart Fire TV (65U6SF Pro, 2026 New) - Hi-QLED, Native 144Hz, Motion Rate 480, Dolby Vision IQ Atmos, HDR10+, Glare-Free, Alexa+",
+          "detailPageUrl": "https://www.amazon.com/dp/B0GT8GLWZH?tag=alyssasousa-20",
+          "imageUrl": "https://m.media-amazon.com/images/I/81zOFKXGVUL._AC_UY218_.jpg",
+          "priceAmount": 529.99,
+          "priceDisplay": "$529.99",
+          "savingsAmount": 570,
+          "savingsPercent": 52,
+          "rating": 4.2,
+          "reviewCount": 400,
           "salesRank": 0,
           "isDeal": true,
           "category": "Premium TV Deal",
           "keyword": "premium tv deal",
           "featureBullets": [
-            "Verified discount signal: about 60% off list price.",
-            "Shopper confidence signal: 4.3 stars and 160 reviews.",
-            "Specs highlight: 65 Inch, QLED, 4K, 144Hz."
+            "Verified discount signal: about 52% off list price.",
+            "Shopper confidence signal: 4.2 stars and 400 reviews.",
+            "Specs highlight: 4K, QLED, 144Hz, Dolby Vision."
           ],
-          "manualSummary": "TCL 65 Inch QM8L Series SQD-Mini LED QLED 4K Smart Google TV 65QM8L, 144Hz is currently listed at $997.99 with about 60% off versus list price. It has 4.3 stars across 160 reviews. Key specs: 65 Inch, QLED, 4K, 144Hz.",
+          "manualSummary": "Hisense 65\" U6 Pro Series Mini LED ULED 4K UHD HDR Gaming AI Smart Fire TV (65U6SF Pro, 2026 New) - Hi-QLED, Native 144Hz, Motion Rate 480, Dolby Vision IQ Atmos, HDR10+, Glare-Free, Alexa+ is currently listed at $529.99 with about 52% off versus list price. It has 4.2 stars across 400 reviews. Key specs: 4K, QLED, 144Hz, Dolby Vision.",
           "sourceTag": "manual",
-          "score": 152.99,
+          "score": 140.82,
           "reasons": [
-            "60% discount signal",
-            "4.3 stars from 160 reviews"
+            "52% discount signal",
+            "4.2 stars from 400 reviews"
           ],
-          "readableSummary": "TCL 65 Inch QM8L Series SQD-Mini LED QLED 4K Smart Google TV 65QM8L, 144Hz is currently listed at $997.99 with about 60% off versus list price. It has 4.3 stars across 160 reviews. Key specs: 65 Inch, QLED, 4K, 144Hz."
+          "readableSummary": "Hisense 65\" U6 Pro Series Mini LED ULED 4K UHD HDR Gaming AI Smart Fire TV (65U6SF Pro, 2026 New) - Hi-QLED, Native 144Hz, Motion Rate 480, Dolby Vision IQ Atmos, HDR10+, Glare-Free, Alexa+ is currently listed at $529.99 with about 52% off versus list price. It has 4.2 stars across 400 reviews. Key specs: 4K, QLED, 144Hz, Dolby Vision."
         }
       ]
     }
